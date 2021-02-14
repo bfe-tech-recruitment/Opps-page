@@ -40,10 +40,10 @@ layout: default
           <a class="uk-position-cover" href="{{ post.url | relative_url }}"></a>
           <h3 class="uk-card-title uk-margin-remove uk-text-primary">{{ post.title | escape }}</h3>
           {% if post.smallprint %}
-            <p class="uk-text-muted uk-text-center uk-text-lead uk-margin-small-top">{{ post.smallprint | escape }}</p>
+            <p class="uk-article-meta">{{ post.smallprint | escape }}</p>
           {% endif %}          
           {% if post.summary %}
-            <p class="uk-text-muted uk-text-center uk-text-lead uk-margin-small-top">{{ post.summary | escape }}}</p>
+            <p class="uk-margin-small-top">{{ post.summary | escape }}</p>
           {% endif %}
           <div class="uk-article-meta uk-flex uk-flex-middle">
             <div>
