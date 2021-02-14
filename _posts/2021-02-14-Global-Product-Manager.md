@@ -1,5 +1,5 @@
 ---
-title: Global Project Manager
+title: "[Role] Global Product Manager"
 subtitle: "Commitment: 6 hrs/week"
 categories: [global, technology]
 ---

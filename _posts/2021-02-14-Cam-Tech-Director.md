@@ -1,5 +1,5 @@
 ---
-title: Cambridge Technology Director
+title: "[Role] Cambridge Technology Director"
 subtitle: "Commitment: 8 hrs/week, unil June 2021"
 categories: [cambridge, technology]
 ---
