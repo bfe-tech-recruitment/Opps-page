@@ -28,7 +28,11 @@
             </div>
         </div>
         {% endcomment %}
-        <div>Country flag icons made by <a href="https://www.freepik.com" title="Freepik">Freepik</a> from <a href="https://www.flaticon.com/" title="Flaticon">www.flaticon.com</a></div>
+        
         <div class="uk-margin-medium uk-text-small copyright link-secondary">{{ site.footer.copyright }}</div>
+
+        {% if page.name == "index.md" %}
+            <div style="font-size:10px">Country flag icons made by <a href="https://www.freepik.com" title="Freepik">Freepik</a> from <a href="https://www.flaticon.com/" title="Flaticon">www.flaticon.com</a></div>
+        {% endif %}
     </div>
 </footer>
