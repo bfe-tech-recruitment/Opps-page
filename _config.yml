@@ -77,8 +77,8 @@ share:
     facebook:       true # Enable by setting true (Facebook handle not required)
     linkedin:       true
     email:          true
-    wa:       true
-    tele:       true 
+    whatsapp:       true
+    telegram:       true 
 
 header:
   image: https://bridges-for-enterprise.github.io/assets/img/worldmap_distorted5.png
