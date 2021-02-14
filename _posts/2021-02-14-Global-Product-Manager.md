@@ -1,7 +1,7 @@
 ---
 title: "[Role] Global Product Manager"
 subtitle: "Commitment: 6 hrs/week"
-categories: [technology, global] # the order they are placed decides the order of display for relevant posts
+categories: [global, technology]
 ---
 
 This is a test description
