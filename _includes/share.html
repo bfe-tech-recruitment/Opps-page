@@ -18,11 +18,11 @@
         <a class="uk-link-muted" href="mailto:?subject={{ page.title }}&amp;body={{ email }}"><span data-uk-icon="icon: mail; ratio: 1.2"></span></a>
     {% endif %}
 
-    {$ if site.share.whatsapp %}
+    {$ if site.share.wa %}
         <a class="uk-link-muted" href="whatsapp://send?text={{ msg | url_encode }}"><span data-uk-icon="icon: whatsapp; ratio: 1.2"></span></a>
     {% endif %}
 
-    {$ if site.share.telegram %}
+    {$ if site.share.tele %}
         <a class="uk-link-muted" href="https://t.me/share/url?url={{ site.url }}{{ page.url }}&text={{ msg | url_encode }}"><img source="/assets/icon/telegram.svg" width="10" height="10"></a>
     {% endif %}
 </div>
