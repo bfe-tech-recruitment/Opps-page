@@ -1,7 +1,7 @@
 ---
 title: "[Role] Global Communications Manager"
 subtitle: "Commitment: 6 hrs/week"
-categories: [global, outreach, communications]
+categories: [Global, Outreach, Communications]
 ---
 
 This is a test description
