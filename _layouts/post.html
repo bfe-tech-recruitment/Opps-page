@@ -36,7 +36,9 @@ layout: default
               {% include share.html %}
             {% endif %}
           </div>
-          {% include paginate-post.html %}
+          {% comment %}
+            {% include paginate-post.html %}
+          {% endcomment %}
           {% include related-posts.html %}
           {% if site.disqus.shortname %}
             {% include disqus_comments.html %}
