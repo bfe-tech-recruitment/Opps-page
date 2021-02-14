@@ -4,8 +4,8 @@ header:
   # image: header.jpg
   # background: "rgba(0, 0, 0, 0.5)"
   # color: light
-  title: How can we help you?
-  subtitle:
+  title: Opportunities
+  subtitle: Make an impact while sharpening your professional skills
   # search: true
 ---
 
@@ -29,7 +29,6 @@ header:
   subtitle="Our team is just an email away ready to answer your questions" 
   section="default" 
 %}
-{% endcomment %} 
 
 {% include cta.html 
   title="Didn't find what you are looking for?" 
@@ -38,3 +37,5 @@ header:
   subtitle="Get in touch with us about your exciting ideas and how you may contribute to BfE!" 
   section="muted"
 %}
+
+{% endcomment %} 

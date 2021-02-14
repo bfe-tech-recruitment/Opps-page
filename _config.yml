@@ -78,7 +78,7 @@ share:
 
 header:
   image: https://bfe-technology.github.io/Opps-Page/uploads/worldmap_distorted5.png
-  background: "rgba(1, 1, 1)"
+  background: "rgba(0, 0, 0, 0.5)"
   color: light
   search: true
 

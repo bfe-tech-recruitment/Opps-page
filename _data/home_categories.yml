@@ -34,6 +34,11 @@
   category: chapter
   categories:
 
+    - permalink: /global/
+      title: Global
+      desc: Contribute from anywhere in the world
+      icon: code
+
     - permalink: /cambridge/
       title: Cambridge, United Kingdom
       desc: 
