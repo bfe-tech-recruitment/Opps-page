@@ -40,8 +40,8 @@ $base-heading-color: #000;
 $text-lead-font-size: 1.1875rem;
 
 // Borders
-$global-border: desaturate(lighten($global-primary-background, 40%), 10%);
-$border-light: lighten($global-primary-background, 46%);
+$global-border: desaturate(lighten($global-primary-background, 60%), 10%);
+$border-light: lighten($global-primary-background, 66%);
 $border-xlight: #f5f5f5;
 
 // Pre & Code
