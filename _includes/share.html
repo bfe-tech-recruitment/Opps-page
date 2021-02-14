@@ -1,5 +1,5 @@
 <div class="share uk-text-right uk-margin-large-top">
-    {% assign email = "Hi there,\n\nI saw an opening at BfE that you may be interested in:\n\n" | append: page.title | append: "\n\n" | append: page.summary | append: "\n\nCheck it out at " | append: site.url | append: page.url | append: " !\n\nBest,\n" %}
+    {% assign email = "Hi there,\n\nI saw an opening at BfE that you may be interested in:\n\n" | append: page.title | append: "\n\n" | append: page.summary | append: "\n\nCheck it out at " | append: site.url | append: page.url | append: " !" %}
     {% assign msg = "Hi, I saw an opening at BfE that you may be interested in. " | append: page.title | append: ": " | append: page.summary | append: " Check it out at " | append: site.url | append: page.url | append: " !" %}
     
     {% if site.share.twitter %}
