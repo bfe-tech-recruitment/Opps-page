@@ -7,7 +7,6 @@ pagination:
   categories:
     values:
       - global
-    matching: any
   # sort_field: 'title'
   # sort_reverse: false
 ---
