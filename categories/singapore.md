@@ -7,7 +7,7 @@ pagination:
   categories:
     values:
       - singapore
-    matching: all
+    matching: any
   # sort_field: 'title'
   # sort_reverse: false
 ---

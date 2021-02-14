@@ -9,7 +9,7 @@ pagination:
       - outreach
       - communications
       - growth-partnerships
-    matching: all
+    matching: any
   # sort_field: 'title'
   # sort_reverse: false
 ---

@@ -9,7 +9,7 @@ pagination:
       - internal-technology
       - technology
       - technical-advisory
-    matching: all
+    matching: any
   # sort_field: 'title'
   # sort_reverse: false
 ---

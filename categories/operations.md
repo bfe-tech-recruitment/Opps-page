@@ -9,7 +9,7 @@ pagination:
       - operations
       - startup-recruitment
       - growth-partnerships
-    matching: all
+    matching: any
   # sort_field: 'title'
   # sort_reverse: false
 ---

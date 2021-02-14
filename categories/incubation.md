@@ -11,7 +11,7 @@ pagination:
       - legal-advisory
       - consulting
       - technical-advisory
-    matching: all
+    matching: any
   # sort_field: 'title'
   # sort_reverse: false
 ---
