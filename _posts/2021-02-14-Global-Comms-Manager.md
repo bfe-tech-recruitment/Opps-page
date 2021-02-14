@@ -1,5 +1,5 @@
 ---
-title: Global Communications Manager
+title: "[Role] Global Communications Manager"
 subtitle: "Commitment: 6 hrs/week"
 categories: [global, outreach, communications]
 ---
