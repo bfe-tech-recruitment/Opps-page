@@ -1,6 +1,6 @@
 ---
 title: Who should I contact to ask questions?
-categories: [global]
+categories: [general]
 ---
 
 ## By Division

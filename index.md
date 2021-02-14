@@ -17,7 +17,7 @@ header:
 {% include faqs.html 
   multiple="true" 
   title="Frequently asked questions" 
-  category="" 
+  category="general" 
   subtitle="" 
   section="muted" 
 %}
