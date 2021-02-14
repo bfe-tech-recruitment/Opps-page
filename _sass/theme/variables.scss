@@ -6,7 +6,7 @@ $global-primary-background: #163752;
 $global-color: desaturate(darken($global-primary-background, 5%), 40%);
 $global-muted-color: desaturate(darken($global-primary-background, 10%), 50%);
 $global-muted-background: desaturate(
-  lighten($global-primary-background, 200%),
+  lighten($global-primary-background, 90%),
   10%
 );
 $global-secondary-background: #222;
