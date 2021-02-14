@@ -4,8 +4,8 @@ layout: default
 
 <div class="uk-section uk-section-muted">
   <div class="uk-container">
-    {% for section in site.data.home_categories %}
     <ul class="uk-breadcrumb">
+    {% for section in site.data.home_categories %}
       {% for item in section.categories %}
         {% if page.url contains item.permalink %}
    <!--         <li><a href="{{ "/" | relative_url }}">{{ site.data.translation[site.lang].help_center | default: "Help Center" }}</a></li> -->
@@ -17,8 +17,8 @@ layout: default
           {% break %}
         {% endif %}
       {% endfor %}
-    </ul>
     {% endfor %}
+    </ul>
     <div class="uk-background-default uk-border-rounded uk-box-shadow-small">
       <div class="uk-container uk-container-xsmall uk-padding-large">
         <article class="uk-article">
