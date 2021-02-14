@@ -19,7 +19,7 @@
     {% endif %}
 
     {$ if site.share.whatsapp %}
-        <a class="uk-link-muted" href="whatsapp://send?text={{ msg | url_encode }}" data-action="share/whatsapp/share"><span data-uk-icon="icon: whatsapp; ratio: 1.2"></span></a>
+        <a class="uk-link-muted" href="whatsapp://send?text={{ msg | url_encode }}"><span data-uk-icon="icon: whatsapp; ratio: 1.2"></span></a>
     {% endif %}
 
     {$ if site.share.telegram %}
