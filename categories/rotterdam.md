@@ -6,7 +6,7 @@ pagination:
   permalink: /:num/
   categories:
     values:
-      - rotterdam
+      - Rotterdam
     matching: all
   # sort_field: 'title'
   # sort_reverse: false

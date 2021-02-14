@@ -6,9 +6,7 @@ pagination:
   permalink: /:num/
   categories:
     values:
-      - outreach
-      - communications
-      - growth-partnerships
+      - Outreach
     matching: any
   # sort_field: 'title'
   # sort_reverse: false

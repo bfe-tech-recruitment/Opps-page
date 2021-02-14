@@ -6,7 +6,7 @@ pagination:
   permalink: /:num/
   categories:
     values:
-      - singapore
+      - Singapore
     matching: any
   # sort_field: 'title'
   # sort_reverse: false

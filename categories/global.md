@@ -6,7 +6,7 @@ pagination:
   permalink: /:num/
   categories:
     values:
-      - global
+      - Global
   # sort_field: 'title'
   # sort_reverse: false
 ---

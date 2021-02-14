@@ -6,9 +6,7 @@ pagination:
   permalink: /:num/
   categories:
     values:
-      - operations
-      - startup-recruitment
-      - growth-partnerships
+      - Operations
     matching: any
   # sort_field: 'title'
   # sort_reverse: false

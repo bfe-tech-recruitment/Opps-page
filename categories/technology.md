@@ -6,9 +6,7 @@ pagination:
   permalink: /:num/
   categories:
     values:
-      - internal-technology
-      - technology
-      - technical-advisory
+      - Technology
     matching: any
   # sort_field: 'title'
   # sort_reverse: false

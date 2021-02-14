@@ -6,7 +6,7 @@ pagination:
   permalink: /:num/
   categories:
     values:
-      - cambridge
+      - Cambridge
     matching: all
   # sort_field: 'title'
   # sort_reverse: false

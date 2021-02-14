@@ -6,7 +6,7 @@ pagination:
   permalink: /:num/
   categories:
     values:
-      - impact-research
+      - Impact Research
     matching: any
   # sort_field: 'title'
   # sort_reverse: false
