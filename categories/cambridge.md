@@ -6,7 +6,6 @@ pagination:
   permalink: /:num/
   categories:
     values:
-      - chapter
       - cambridge
     matching: all
   # sort_field: 'title'
