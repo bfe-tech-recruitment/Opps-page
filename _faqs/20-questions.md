@@ -3,7 +3,7 @@ title: Who should I contact to ask questions?
 categories: [general]
 ---
 
-## By Division
+### By Division
 - **Incubation:** incubation\[at\]bridgesforenterprise.com
     * **Consulting:** consulting\[at\]bridgesforenterprise.com
     * **Finance Advisory:** finance.advisory\[at\]bridgesforenterprise.com
@@ -18,7 +18,7 @@ categories: [general]
 - **Technology:** technology\[at\]bridgesforenterprise.com
     * **Internal Technology:** internal.technology\[at\]bridgesforenterprise.com
 
-## By Chapter
+### By Chapter
 - **Global:** leadership@bridgesforenterprise.com
 - **Cambridge:** cambridge@bridgesforenterprise.com
 - **New York:** newyork@bridgesforenterprise.com
