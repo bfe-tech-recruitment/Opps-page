@@ -29,7 +29,7 @@ header:
   subtitle="Our team is just an email away ready to answer your questions" 
   section="default" 
 %}
-{% end comment %} 
+{% endcomment %} 
 
 {% include cta.html 
   title="Didn't find what you are looking for?" 
