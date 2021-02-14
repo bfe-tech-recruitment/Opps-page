@@ -52,7 +52,6 @@
     - permalink: /rotterdam/
       title: Rotterdam
       desc: Netherlands
-      icon: question
       custom-icon: netherlands.svg
 
     - permalink: /singapore/
