@@ -1,40 +1,61 @@
 # Categories separated in sections
-- title: Getting Started
+- title: By Division
   subtitle:
-  category: setup
+  category: division
   categories:
 
-    - permalink: /setup/basics/
-      title: Basic Setup
-      desc: Get started fast with installation and theme setup instructions
+    - permalink: /incubation/
+      title: Incubation
+      desc: Strategic Consulting | Finance | Legal Advisory | Technical Consulting
       icon: cog
 
-    - permalink: /setup/content/
-      title: Managing Content
-      desc: Get help or tailor the theme to your specific requirements
+    - permalink: /outreach/
+      title: Outreach 
+      desc: Growth Strategies | Corporate Partnerships | Media | Marketing | Design | Events 
       icon: file-text
 
-    - permalink: /setup/features/
-      title: Theme Features
-      desc: Lean about all the theme options, features and how to use them
+    - permalink: /operations/
+      title: Operations
+      desc: Startup Assessment | Mentorship Outreach | Programme Management 
       icon: settings
 
-    - permalink: /setup/translation/
-      title: Translation
-      desc: Lean about all the theme options, features and how to use them
+    - permalink: /impact-research/
+      title: Impact Research
+      desc: Impact Tracking and Analytics | Startup Alumni Relations 
+      icon: settings
+
+    - permalink: /technology/
+      title: Technology
+      desc: Data Analytics | Software Development | ML and Algo Design | Project Management | DevOps, Cloud and Security
       icon: settings
       
-- title: Customization
+- title: By Chapter
   subtitle:
-  category: customization
+  category: chapter
   categories:
 
-    - permalink: /customization/development/
-      title: Development
-      desc: Interactively engage professional total linkage whereas enterprise catalysts
+    - permalink: /cambridge/
+      title: Cambridge, United Kingdom
+      desc: 
       icon: code
 
-    - permalink: /customization/help/
-      title: Sources & Help
-      desc: Interactively engage professional total linkage whereas enterprise catalysts
+    - permalink: /newyork/
+      title: New York, United States
+      desc: 
       icon: question
+
+    - permalink: /rotterdam/
+      title: Rotterdam, Netherlands
+      desc: 
+      icon: question
+
+    - permalink: /singapore/
+      title: Singapore
+      desc: 
+      icon: code
+
+    - permalink: /vancouver/
+      title: Vancouver, Canada
+      desc: 
+      icon: code
+

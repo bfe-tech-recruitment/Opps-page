@@ -14,6 +14,7 @@ header:
   section="muted" 
 %}
 
+{% comment %} 
 {% include faqs.html 
   multiple="true" 
   title="Frequently asked questions" 
@@ -28,11 +29,12 @@ header:
   subtitle="Our team is just an email away ready to answer your questions" 
   section="default" 
 %}
+{% end comment %} 
 
 {% include cta.html 
-  title="Didn't find an answer?" 
+  title="Didn't find what you are looking for?" 
   button_text="Contact Us" 
   button_url="/contact/" 
-  subtitle="Get in touch with us for details on setup and additional custom services pricing" 
+  subtitle="Get in touch with us about your exciting ideas and how you may contribute to BfE!" 
   section="muted"
 %}

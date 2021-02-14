@@ -5,8 +5,8 @@
 # 'bundle exec jekyll serve'. If you change this file, please restart the server process.
 
 # Site title and description
-title:              Guia
-description:        Customer helpdesk Jekyll theme.
+title:              BfE Opportunities
+description:        Listing current open projects and roles in BfE.
 lang:               en
 
 # Site subpath, e.g. /blog
@@ -19,7 +19,7 @@ permalink:          /:categories/:title/
 url:                "https://bfe-technology.github.io"
 
 # Site logo # e.g. logo.png, upload logo image file to /uploads/ folder
-logo:               
+logo:               bfe.png
   
 # Default author settings
 author:
@@ -77,8 +77,8 @@ share:
     facebook:       true # Enable by setting true (Facebook handle not required)
 
 header:
-  image: https://via.placeholder.com/1728x600
-  # background: "rgba(0, 0, 0, 0.5)"
+  image: https://bfe-technology.github.io/Opps-Page/uploads/worldmap_distorted5.png
+  background: "rgba(1, 1, 1)"
   color: light
   search: true
 
