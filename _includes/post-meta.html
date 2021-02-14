@@ -16,11 +16,6 @@
 {% endcomment $}
 
 <div>
-  {% comment $}
-  {% if author.name %}
-    {{ site.data.translation[site.lang].written_by | default: "Written by" }} {{ author.name }}<br>
-  {% endif %}
-  {% endcomment $}
   <time datetime="{{ page.date | date_to_xmlschema }}">
     {% assign date_format = site.date_format | default: "%b %-d, %Y" %}
     {{ page.date | date: date_format }}
