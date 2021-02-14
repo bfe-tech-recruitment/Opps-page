@@ -40,27 +40,27 @@
       icon: code
 
     - permalink: /cambridge/
-      title: Cambridge, United Kingdom
-      desc: 
+      title: Cambridge
+      desc: United Kingdom
       icon: code
 
     - permalink: /newyork/
-      title: New York, United States
-      desc: 
+      title: New York
+      desc: United States
       icon: question
 
     - permalink: /rotterdam/
-      title: Rotterdam, Netherlands
-      desc: 
+      title: Rotterdam
+      desc: Netherlands
       icon: question
 
     - permalink: /singapore/
       title: Singapore
-      desc: 
+      desc: Singapore
       icon: code
 
     - permalink: /vancouver/
-      title: Vancouver, Canada
-      desc: 
+      title: Vancouver
+      desc: Canada
       icon: code
 
