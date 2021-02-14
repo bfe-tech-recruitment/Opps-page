@@ -17,7 +17,7 @@
     - permalink: /operations/
       title: Operations
       desc: Startup Assessment | Mentorship Outreach | Programme Management 
-      icon: move
+      icon: settings
 
     - permalink: /impact-research/
       title: Impact Research
@@ -37,27 +37,31 @@
     - permalink: /global/
       title: Global
       desc: Contribute from anywhere in the world
+      custom-icon: bfe.png
 
     - permalink: /cambridge/
       title: Cambridge
       desc: United Kingdom
+      custom-icon: uk.svg
 
     - permalink: /newyork/
       title: New York
       desc: United States
+      custom-icon: us.svg
 
     - permalink: /rotterdam/
       title: Rotterdam
       desc: Netherlands
       icon: question
+      custom-icon: netherlands.svg
 
     - permalink: /singapore/
       title: Singapore
       desc: Singapore
-      icon: code
+      custom-icon: singapore.svg
 
     - permalink: /vancouver/
       title: Vancouver
       desc: Canada
-      icon: code
+      custom-icon: canada.svg
 
