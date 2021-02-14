@@ -4,7 +4,7 @@ header:
   # image: header.jpg
   # background: "rgba(0, 0, 0, 0.5)"
   # color: light
-  title: Opportunities
+  title: Opportunities@BfE
   subtitle: Make an impact while sharpening your professional skills
   # search: true
 ---
