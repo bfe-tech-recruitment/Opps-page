@@ -1,21 +1,27 @@
 <div class="share uk-text-center uk-margin-large-top">
     {% assign email = "Hi there,\n\nI saw an opening at BfE that may be suitable for you:\n\n" | append: page.title | append: "\n\n" | append: page.summary | append: "\n\nCheck it out at" | append: site.url | append: page.url | append: "!\n\nBest,\n" %}
     {% assign msg = "Hi, I saw an opening at BfE that may be suitable for you:\n\n" | append: page.title | append: "\n\n" | append: page.summary | append: "\n\nCheck it out at" | append: site.url | append: page.url | append: "!" %}
+    
     {% if site.share.twitter %}
         <a class="uk-link-muted" href="https://twitter.com/intent/tweet?text={{ page.title | url_encode }}&url={{ site.url }}{{ page.url }}&via={{ site.twitter }}&related={{ site.twitter }}" rel="nofollow" target="_blank" title="{{ site.data.translation[site.lang].share_twitter | default: "Share on Twitter" }}" onclick="window.open(this.href, 'twitter', 'width=550,height=235');return false;"><span data-uk-icon="icon: twitter; ratio: 1.2"></span></a>
     {% endif %}
+
     {% if site.share.facebook %}
         <a class="uk-link-muted uk-margin-small-left" href="https://www.facebook.com/sharer/sharer.php?u={{ page.url | prepend: site.url | cgi_escape }}" rel="nofollow" target="_blank" title="{{ site.data.translation[site.lang].share_facebook | default: "Share on Facebook" }}" onclick="window.open(this.href, 'facebook-share','width=580,height=296');return false;"><span data-uk-icon="icon: facebook; ratio: 1.2"></span></a>
     {% endif %}
+
     {% if site.share.linkedin %}
-        <a class="uk-link-muted" href="http://www.linkedin.com/shareArticle?mini=true&url={{ site.url }}{{ page.url }}&title={{ page.title | url_encode }}&summary={{ page.summary | url_encode }}&source=stackoverflow.com" rel="nofollow" target="_blank" title="{{ site.data.translation[site.lang].share_facebook | default: "Share on LinkedIn" }}" onclick="window.open(this.href, 'linkedin-share','width=580,height=296');return false;"><span data-uk-icon="icon: linkedin; ratio: 1.2"></span></a>
+        <a class="uk-link-muted" href="http://www.linkedin.com/shareArticle?mini=true&url={{ site.url }}{{ page.url }}&title={{ page.title | url_encode }}&summary={{ page.summary | url_encode }}&source=stackoverflow.com" rel="nofollow" target="_blank" title="{{ site.data.translation[site.lang].share_facebook | default: 'Share on LinkedIn' }}" onclick="window.open(this.href, 'linkedin-share','width=580,height=296');return false;"><span data-uk-icon="icon: linkedin; ratio: 1.2"></span></a>
     {% endif %}
+
     {% if site.share.email %}
         <a href="mailto:?subject={{ page.title | url_encode }}&amp;body={{ email | url_encode }}" rel="nofollow" target="_blank"><span data-uk-icon="icon: mail; ratio: 1.2"></span></a>
     {% endif %}
+
     {$ if site.share.whatsapp %}
         <a href="whatsapp://send?text={{ msg | url_encode }}" data-action="share/whatsapp/share"><span data-uk-icon="icon: whatsapp; ratio: 1.2"></span></a>
     {% endif %}
+
     {$ if site.share.telegram %}
         <a href="https://t.me/share/url?url={{ site.url }}{{ page.url }}&text={{ msg | url_encode }}"><img source="/assets/icon/telegram.svg" width="10" height="10"></a>
     {% endif %}
