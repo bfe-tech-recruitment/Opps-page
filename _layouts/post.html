@@ -26,9 +26,9 @@ layout: default
           <div class="uk-article-meta uk-margin uk-flex uk-flex-middle">
             {% include post-meta.html %}
           </div>
-          {% if page.subtitle %}
+          {% if page.smallprint %}
             <!-- replaced class "uk-text-lead uk-text-muted"-->
-            <p class="uk-article-meta">{{ page.subtitle }}</p>
+            <p class="uk-article-meta">{{ page.smallprint }}</p>
           {% endif %}
           <div class="uk-article-content">
             {{ content }}

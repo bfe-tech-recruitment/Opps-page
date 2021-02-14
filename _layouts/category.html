@@ -39,11 +39,11 @@ layout: default
         <div class="uk-card uk-card-category uk-card-default uk-card-hover uk-card-body uk-inline uk-border-rounded uk-width-1-1">
           <a class="uk-position-cover" href="{{ post.url | relative_url }}"></a>
           <h3 class="uk-card-title uk-margin-remove uk-text-primary">{{ post.title | escape }}</h3>
-          {% if section.smallprint %}
-            <p class="uk-text-muted uk-text-center uk-text-lead uk-margin-small-top">{{ section.smallprint | escape }}</p>
+          {% if post.smallprint %}
+            <p class="uk-text-muted uk-text-center uk-text-lead uk-margin-small-top">{{ post.smallprint | escape }}</p>
           {% endif %}          
-          {% if section.summary %}
-            <p class="uk-text-muted uk-text-center uk-text-lead uk-margin-small-top">{{ section.summary | escape }}}</p>
+          {% if post.summary %}
+            <p class="uk-text-muted uk-text-center uk-text-lead uk-margin-small-top">{{ post.summary | escape }}}</p>
           {% endif %}
           <div class="uk-article-meta uk-flex uk-flex-middle">
             <div>
