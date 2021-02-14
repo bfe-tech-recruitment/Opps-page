@@ -1,6 +1,17 @@
-/*desaturate(
-  lighten($global-primary-background, 50%),
-  10%
-);*/
+/* Error: $amount: Expected 200% to be within 0% and 100%.
+ *   ,
+ * 9 |   lighten($global-primary-background, 200%),
+ *   |   ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+ *   '
+ *   d:\huang\bfe\infrastructure\bfe-main\local-dev\opps\_sass\theme\variables.scss 9:3  root stylesheet */
 
-/*# sourceMappingURL=variables.css.map */
+body::before {
+  font-family: "Source Code Pro", "SF Mono", Monaco, Inconsolata, "Fira Mono",
+      "Droid Sans Mono", monospace, monospace;
+  white-space: pre;
+  display: block;
+  padding: 1em;
+  margin-bottom: 1em;
+  border-bottom: 2px solid black;
+  content: "Error: $amount: Expected 200% to be within 0% and 100%.\a   \2577 \a 9 \2502    lighten($global-primary-background, 200%),\a   \2502    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\a   \2575 \a   d:\\huang\\bfe\\infrastructure\\bfe-main\\local-dev\\opps\\_sass\\theme\\variables.scss 9:3  root stylesheet";
+}

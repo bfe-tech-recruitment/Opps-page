@@ -5,11 +5,10 @@
 $global-primary-background: #163752;
 $global-color: desaturate(darken($global-primary-background, 5%), 40%);
 $global-muted-color: desaturate(darken($global-primary-background, 10%), 50%);
-$global-muted-background: red;
-/*desaturate(
-  lighten($global-primary-background, 50%),
+$global-muted-background: desaturate(
+  lighten($global-primary-background, 200%),
   10%
-);*/
+);
 $global-secondary-background: #222;
 $global-default-background: #fff;
 $global-warning-background: #fbc418;
