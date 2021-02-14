@@ -9,3 +9,6 @@ _site
 
 # Doc
 DOCUMENTATION.html
+
+# npm
+npm-debug.log
