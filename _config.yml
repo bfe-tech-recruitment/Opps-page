@@ -19,7 +19,7 @@ permalink:          /:categories/:title/
 url:                "https://bfe-technology.github.io"
 
 # Site logo # e.g. logo.png, upload logo image file to /uploads/ folder
-logo:               bfe.png
+logo:               
   
 # Default author settings
 author:
