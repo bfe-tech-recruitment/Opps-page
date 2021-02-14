@@ -1,19 +1,18 @@
-{% comment $}
-  {% if page.author %}
-    {% assign author = site.authors[page.author] %}
-  {% else %}
-    {% assign author = site.author %}
-  {% endif %}
+{% if page.author %}
+  {% assign author = site.authors[page.author] %}
+{% else %}
+  {% assign author = site.author %}
+{% endif %}
 
-  {% if author.avatar %}
-    {% if author.avatar contains 'http' %}
-        {% assign domain = '' %}
-    {% else %}
-        {% assign domain = site.uploads | absolute_url %}
-    {% endif %}
-    <!--<img class="uk-border-circle uk-avatar-small" data-src="{{ domain }}{{ author.avatar }}" src="{{ domain }}{{ author.avatar }}" alt="{{ author.name }}" data-uk-img> -->
+{% if author.avatar %}
+  {% if author.avatar contains 'http' %}
+      {% assign domain = '' %}
+  {% else %}
+      {% assign domain = site.uploads | absolute_url %}
   {% endif %}
-{% endcomment $}
+  <!--<img class="uk-border-circle uk-avatar-small" data-src="{{ domain }}{{ author.avatar }}" src="{{ domain }}{{ author.avatar }}" alt="{{ author.name }}" data-uk-img> -->
+{% endif %}
+
 
 <div>
   <time datetime="{{ page.date | date_to_xmlschema }}">
