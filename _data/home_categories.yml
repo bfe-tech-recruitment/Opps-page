@@ -7,27 +7,27 @@
     - permalink: /incubation/
       title: Incubation
       desc: Strategic Consulting | Finance | Legal Advisory | Technical Consulting
-      icon: cog
+      icon: star
 
     - permalink: /outreach/
       title: Outreach 
       desc: Growth Strategies | Corporate Partnerships | Media | Marketing | Design | Events 
-      icon: file-text
+      icon: social
 
     - permalink: /operations/
       title: Operations
       desc: Startup Assessment | Mentorship Outreach | Programme Management 
-      icon: settings
+      icon: move
 
     - permalink: /impact-research/
       title: Impact Research
       desc: Impact Tracking and Analytics | Startup Alumni Relations 
-      icon: settings
+      icon: search
 
     - permalink: /technology/
       title: Technology
       desc: Data Analytics | Software Development | ML and Algo Design | Project Management | DevOps, Cloud and Security
-      icon: settings
+      icon: laptop
       
 - title: By Chapter
   subtitle:
@@ -37,17 +37,14 @@
     - permalink: /global/
       title: Global
       desc: Contribute from anywhere in the world
-      icon: code
 
     - permalink: /cambridge/
       title: Cambridge
       desc: United Kingdom
-      icon: code
 
     - permalink: /newyork/
       title: New York
       desc: United States
-      icon: question
 
     - permalink: /rotterdam/
       title: Rotterdam
