@@ -39,26 +39,14 @@ layout: default
         <div class="uk-card uk-card-category uk-card-default uk-card-hover uk-card-body uk-inline uk-border-rounded uk-width-1-1">
           <a class="uk-position-cover" href="{{ post.url | relative_url }}"></a>
           <h3 class="uk-card-title uk-margin-remove uk-text-primary">{{ post.title | escape }}</h3>
-          <p class="uk-margin-small-top">Intrinsicly maximize unique infomediaries without an expanded array of mindshare. Credibly disseminate 
-            resource sucking customer service through functionalized schemas.</p>
+          {% if section.smallprint %}
+            <p class="uk-text-muted uk-text-center uk-text-lead uk-margin-small-top">{{ section.smallprint | escape }}</p>
+          {% endif %}          
+          {% if section.summary %}
+            <p class="uk-text-muted uk-text-center uk-text-lead uk-margin-small-top">{{ section.summary | escape }}}</p>
+          {% endif %}
           <div class="uk-article-meta uk-flex uk-flex-middle">
-            {% if post.author %}
-              {% assign author = site.authors[post.author] %}
-            {% else %}
-              {% assign author = site.author %}
-            {% endif %}
-            {% if author.avatar %}
-              {% if author.avatar contains 'http' %}
-                  {% assign domain = '' %}
-              {% else %}
-                  {% assign domain = site.uploads | absolute_url %}
-              {% endif %}
-              <img class="uk-border-circle uk-avatar-small" data-src="{{ domain }}{{ author.avatar }}" src="{{ domain }}{{ author.avatar }}" alt="{{ author.name }}" data-uk-img>
-            {% endif %}
             <div>
-              {% if author.name %}
-                {{ site.data.translation[site.lang].written_by | default: "Written by" }} {{ author.name }}<br>
-              {% endif %}
               <time datetime="{{ post.date | date_to_xmlschema }}">
                 {% assign date_format = site.date_format | default: "%b %-d, %Y" %}
                 {{ post.date | date: date_format }}

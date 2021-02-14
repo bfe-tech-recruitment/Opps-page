@@ -1,6 +1,7 @@
 ---
 title: "[Role] Global Product Manager"
-subtitle: "Commitment: 6 hrs/week"
+smallprint: "Commitment: 6 hrs/week"
+summary: "some one-paragraph summary"
 categories: [Global, Technology]
 ---
 

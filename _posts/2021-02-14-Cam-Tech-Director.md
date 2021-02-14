@@ -1,6 +1,7 @@
 ---
 title: "[Role] Cambridge Technology Director"
-subtitle: "Commitment: 8 hrs/week, unil June 2021"
+smallprint: "Commitment: 8 hrs/week, unil June 2021"
+summary: "some one-paragraph summary"
 categories: [Cambridge, Technology]
 ---
 

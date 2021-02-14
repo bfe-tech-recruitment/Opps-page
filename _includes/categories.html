@@ -5,8 +5,8 @@
         {% if section.title %}
           <h2{% if section.category %} id="{{ section.category }}"{% endif %} class="uk-text-center uk-margin-remove">{{ section.title }}</h2>
         {% endif %}
-        {% if section.subtitle %}
-          <p class="uk-text-muted uk-text-center uk-text-lead uk-margin-small-top">{{ section.subtitle | escape }}</p>
+        {% if section.smallprint %}
+          <p class="uk-text-muted uk-text-center uk-text-lead uk-margin-small-top">{{ section.smallprint | escape }}</p>
         {% endif %}
       </div>
       {% if section.categories %}

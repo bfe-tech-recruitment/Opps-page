@@ -1,6 +1,7 @@
 ---
 title: "[Project] DevOps Unit Test Design"
-subtitle: "Project Length: 6 hrs/week for 2-3 weeks"
+smallprint: "Project Length: 6 hrs/week for 2-3 weeks"
+summary: "some one-paragraph summary"
 categories: [Global, Technology]
 ---
 
