@@ -30,8 +30,13 @@ Then,
 4. If you need to insert a photo, name it as `POSTNAME_NUM.EXT`, where `POSTNAME` is the name of the file (i.e. `YYYY-MM-DD-somename.md`) that you used before, `NUM` is the index of the image related to this post (starting from 1), and `EXT` is the image extension such as `jpg` or `png`. Then, upload the image under `/assets/img/`. Use it in your post by writing `![img](/assets/img/POSTNAME_NUM.EXT)`.
 
 5. Once you are done, visit [this url](https://github.com/Bridges-for-Enterprise/Bridges-for-Enterprise.github.io/deployments/activity_log?environment=github-pages). If you see a new deployment that happened within the past few seconds, that means your changes have been updated, and you can click `View Deployment` to see the website live. 
+
+## Edit file
+Just navigate to the file in `_posts` and edit.
+## Accidentally deleted some content
+Don't worry. Use GitHub's [commit history](https://docs.github.com/en/github/committing-changes-to-your-project/differences-between-commit-views) functionality to view previous versions of the file and retrieve information from there.
 ## Remove a posting
-1. Put your post into `_posts\archived`.
+Put your post into `_posts\archived`.
 ## Original template
 
 [Here](https://docs.unbound.studio/guia-jekyll-helpdesk-theme/).

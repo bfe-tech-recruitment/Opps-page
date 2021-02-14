@@ -56,19 +56,19 @@ authors:
 
 # Social icons displayed in footer
 social:
-    email:
-    website:
-    facebook:       https://www.facebook.com/
+    email:          leadership@bridgesforenterprise.com
+    website:        https://www.bridgesforenterprise.com
+    facebook:       https://www.facebook.com/BridgesforEnterprise/
     flickr:
     dribbble:
-    github:
+    github:         https://github.com/BfE-Technology/BfE-Technology.github.io
     googleplus:
-    instagram:      https://www.instagram.com/
-    linkedin:
+    instagram:      https://www.instagram.com/bfe.global/
+    linkedin:       https://www.linkedin.com/company/bridges-for-enterprise/
     pinterest:
-    twitter:        https://twitter.com/
-    vimeo:          https://vimeo.com/
-    youtube:
+    twitter:        
+    vimeo:          
+    youtube:        https://www.youtube.com/channel/UC6LhJnDH9UwlMhZLQShEl0A
 
 # Share button
 share:
