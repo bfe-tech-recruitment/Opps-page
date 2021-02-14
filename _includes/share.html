@@ -18,9 +18,6 @@
         <a href="mailto:?subject={{ page.title | url_encode }}&amp;body={{ email | url_encode }}" rel="nofollow" target="_blank"><span data-uk-icon="icon: mail; ratio: 1.2"></span></a>
     {% endif %}
 
-    {$ if site.share.whatsapp %}
-        <a href="whatsapp://send?text={{ msg | url_encode }}" data-action="share/whatsapp/share"><span data-uk-icon="icon: whatsapp; ratio: 1.2"></span></a>
-    {% endif %}
 
     {$ if site.share.telegram %}
         <a href="https://t.me/share/url?url={{ site.url }}{{ page.url }}&text={{ msg | url_encode }}"><img source="/assets/icon/telegram.svg" width="10" height="10"></a>
