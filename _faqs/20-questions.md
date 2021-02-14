@@ -17,6 +17,7 @@ categories: [general]
 - **Impact Research:** impact.research\[at\]bridgesforenterprise.com
 - **Technology:** technology\[at\]bridgesforenterprise.com
     * **Internal Technology:** internal.technology\[at\]bridgesforenterprise.com
+
 ## By Chapter
 - **Global:** leadership@bridgesforenterprise.com
 - **Cambridge:** cambridge@bridgesforenterprise.com

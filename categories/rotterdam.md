@@ -7,7 +7,7 @@ pagination:
   categories:
     values:
       - rotterdam
-    matching: any
+    matching: all
   # sort_field: 'title'
   # sort_reverse: false
 ---

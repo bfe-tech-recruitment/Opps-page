@@ -7,6 +7,7 @@ pagination:
   categories:
     values:
       - cambridge
+    matching: all
   # sort_field: 'title'
   # sort_reverse: false
 ---
