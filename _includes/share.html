@@ -17,12 +17,8 @@
     {% if site.share.email %}
         <a class="uk-link-muted" href="mailto:?subject={{ page.title }}&amp;body={{ email }}"><span data-uk-icon="icon: mail; ratio: 1.2"></span></a>
     {% endif %}
-
-    {$ if site.share.whatsapp %}
-        <a class="uk-link-muted"><span data-uk-icon="icon: whatsapp; ratio: 1.2"></span></a>
+    {% if site.share.email %}
+        <a class="uk-link-muted" href="mailto:?subject={{ page.title }}&amp;body={{ email }}"><span data-uk-icon="icon: mail; ratio: 1.2"></span></a>
     {% endif %}
 
-    {$ if site.share.telegram %}
-        <a class="uk-link-muted" href="https://t.me/share/url?url={{ site.url }}{{ page.url }}&text={{ msg | url_encode }}"><img source="/assets/icon/telegram.svg" width="10" height="10"></a>
-    {% endif %}
 </div>
