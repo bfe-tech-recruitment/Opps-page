@@ -1,10 +1,7 @@
 # Footer navigation links
 
 - title: Home
-  url: /
-
-- title: Changelog
-  url: /changelog-timeline/
+  url: https://www.bridgesforenterprise.com
 
 - title: Contact
   url: /contact/

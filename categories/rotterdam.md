@@ -1,12 +1,12 @@
 ---
 layout: category
-permalink: /cambridge/
+permalink: /rotterdam/
 pagination: 
   enabled: true
   permalink: /:num/
   categories:
     values:
-      - cambridge
+      - rotterdam
     matching: all
   # sort_field: 'title'
   # sort_reverse: false

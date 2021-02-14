@@ -14,7 +14,6 @@ header:
   section="muted" 
 %}
 
-{% comment %} 
 {% include faqs.html 
   multiple="true" 
   title="Frequently asked questions" 
@@ -23,6 +22,7 @@ header:
   section="muted" 
 %}
 
+{% comment %} 
 {% include team.html 
   authors="evan, john, sara, alex, tom, daniel" 
   title="We are here to help" 

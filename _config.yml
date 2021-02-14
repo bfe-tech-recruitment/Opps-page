@@ -77,7 +77,7 @@ share:
     facebook:       true # Enable by setting true (Facebook handle not required)
 
 header:
-  image: https://bfe-technology.github.io/Opps-Page/uploads/worldmap_distorted5.png
+  image: /assets/img/worldmap_distorted5.png
   background: "rgba(0, 0, 0, 0.5)"
   color: light
   search: true

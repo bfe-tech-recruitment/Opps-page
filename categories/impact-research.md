@@ -1,12 +1,12 @@
 ---
 layout: category
-permalink: /cambridge/
+permalink: /impact-research/
 pagination: 
   enabled: true
   permalink: /:num/
   categories:
     values:
-      - cambridge
+      - impact-research
     matching: all
   # sort_field: 'title'
   # sort_reverse: false

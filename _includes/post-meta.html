@@ -1,3 +1,4 @@
+{% comment $}
 {% if page.author %}
   {% assign author = site.authors[page.author] %}
 {% else %}
@@ -12,11 +13,14 @@
   {% endif %}
   <img class="uk-border-circle uk-avatar-small" data-src="{{ domain }}{{ author.avatar }}" src="{{ domain }}{{ author.avatar }}" alt="{{ author.name }}" data-uk-img>
 {% endif %}
+{% endcomment $}
 
 <div>
+  {% comment $}
   {% if author.name %}
     {{ site.data.translation[site.lang].written_by | default: "Written by" }} {{ author.name }}<br>
   {% endif %}
+  {% endcomment $}
   <time datetime="{{ page.date | date_to_xmlschema }}">
     {% assign date_format = site.date_format | default: "%b %-d, %Y" %}
     {{ page.date | date: date_format }}

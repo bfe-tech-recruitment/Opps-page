@@ -5,16 +5,7 @@ left:
 right:
 
   - title: Home
-    url: /
-
-  - title: Changelogs
-    dropdown:
-
-      - title: Timeline Style
-        url: /changelog-timeline/
-
-      - title: Post Style
-        url: /changelog-posts/
+    url: https://www.bridgesforenterprise.com
 
   - title: Contact
     url: /contact/

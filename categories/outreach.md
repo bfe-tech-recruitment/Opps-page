@@ -1,12 +1,14 @@
 ---
 layout: category
-permalink: /cambridge/
+permalink: /outreach/
 pagination: 
   enabled: true
   permalink: /:num/
   categories:
     values:
-      - cambridge
+      - outreach
+      - communications
+      - growth-partnerships
     matching: all
   # sort_field: 'title'
   # sort_reverse: false

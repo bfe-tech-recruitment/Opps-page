@@ -1,12 +1,14 @@
 ---
 layout: category
-permalink: /cambridge/
+permalink: /operations/
 pagination: 
   enabled: true
   permalink: /:num/
   categories:
     values:
-      - cambridge
+      - operations
+      - startup-recruitment
+      - growth-partnerships
     matching: all
   # sort_field: 'title'
   # sort_reverse: false
