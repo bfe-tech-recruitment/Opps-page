@@ -31,6 +31,8 @@ Then,
 
 5. Once you are done, visit [this url](https://github.com/Bridges-for-Enterprise/Bridges-for-Enterprise.github.io/deployments/activity_log?environment=github-pages). If you see a new deployment that happened within the past few seconds, that means your changes have been updated, and you can click `View Deployment` to see the website live. 
 
+6. *Why do I not see my changes despite successful deployment?* Your browser automatically caches the website if you have visited it before, and you have to either wait for the browser to cache the new copy again, or manually clear the cache if you want to see the changes immediately. If you are using Chrome, you can do this by right-clicking on the webpage and click "Inspect", which will open the developer's mode. Then, **right-click** on the refresh button, and click "empty cache and hard reload". Alternatively, you can just open your browser in incognito mode and visit the url.
+
 ## Edit file
 Just navigate to the file in `_posts` and edit.
 ## Accidentally deleted some content
