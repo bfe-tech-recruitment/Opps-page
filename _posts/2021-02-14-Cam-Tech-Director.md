@@ -1,6 +1,6 @@
 ---
 title: "[Role] Cambridge Technology Director"
-smallprint: "Commitment: 8 hrs/week, unil June 2021"
+smallprint: "Commitment: 8 hrs/week, until June 2021"
 summary: "some one-paragraph summary" # this will be visible on platforms like LinkedIn when sharing
 categories: [Cambridge, Technology]
 ---
