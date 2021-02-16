@@ -20,6 +20,7 @@ You may also find out more about Technology at BfE [here](https://tech.bridgesfo
 - Genuine passion in all aspects of a product - business, technology and design
 - Strong leadership and communications skills
 - Care about quality and delivery
+- Flexible and always keen to stay up-to-date with latest tools and practices relevant to product managemnet
 - You are highly organised and have excellent planning skills. Prior product management experience and experience working with programmers are desirable but not necessary
 - You are not expected to be well-versed in coding, but basic level of technical exposure is highly desirable
 - This role is open to graduate students and working professionals. Exceptions can be made for extremely outstanding undergraduates. There are no geographical restrictions.
