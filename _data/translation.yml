@@ -10,7 +10,7 @@ en:
   share_twitter:              "Share on Twitter"
   share_facebook:             "Share on Facebook"
   share_linkedin:             "Share on LinkedIn"
-  search_placeholder:         "Search for answers"
+  search_placeholder:         "Search for Openings"
   search_no_results:          "No results found"
   mobile_nav_catgories:       "Categories"
   mobile_nav_site:            "Menu"
@@ -20,4 +20,3 @@ en:
   contact_message:            "Message"
   contact_send:               "Send Message"
   help_center:                "Help Center"
-  search_placeholder:         "Search for Openings"
