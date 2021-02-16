@@ -24,4 +24,4 @@ This is a test description
 3. bla
 
 ### Application
-You may apply for this opening via [here](https://google.com). The deadline for this opening is 31 Dec 2100.
+You may apply for this opening via [**here**](https://google.com). The deadline for this opening is 31 Dec 2100.
