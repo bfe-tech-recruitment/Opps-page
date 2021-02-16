@@ -18,6 +18,7 @@ You may also find out more about Technology at BfE [here](https://tech.bridgesfo
 - Enthusiasm and commitment to BfE's cause
 - Passion in cyber security and care about quality
 - Highly organised with excellent planning skills
+- Flexible and always keen to stay up-to-date with latest tools and practices relevant to security
 - Min. 2 years of coding experience. Prior experience in security is highly desirable. Experience in **at least one** of cloud architecture and DevOps is required. Web / app development experience is essential  
 - This role is open to graduate students and working professionals. Exceptions can be made for extremely outstanding undergraduates. There are no geographical restrictions.
 
