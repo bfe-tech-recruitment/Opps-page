@@ -25,4 +25,4 @@ categories: [Global, Outreach, Communications]
 3. Avoid the monotony of corporate life by doing something meaningful and volunteering with your precioius free time
 
 ### Application
-You may apply for this opening [here](https://forms.gle/ZSrnz7N73rrgxh6n7). The deadline for this opening is 30 Feb 2021.
+You may apply for this opening [**here**](https://forms.gle/ZSrnz7N73rrgxh6n7). The deadline for this opening is 30 Feb 2021.
