@@ -34,9 +34,6 @@ $global-medium-font-size: 1.125rem; // H4
 $global-small-font-size: 0.875rem;
 $global-xsmall-font-size: 0.8125rem;
 $global-font-size: 16px;
-@media (max-width: 500px) {
-  $global-font-size: 12px;
-}
 $base-body-font-weight: 300;
 $base-heading-font-weight: 500;
 $base-heading-color: #000;
@@ -123,7 +120,7 @@ $inverse-search-default-focus-background: rgba(255, 255, 255, 0.25);
 
 // Accordion
 $accordion-item-margin-top: 20px;
-$accordion-title-font-size: $global-font-size;
+$accordion-title-font-size: 1rem;
 $accordion-title-color: $global-primary-background;
 $accordion-title-hover-color: $global-primary-background;
 $accordion-content-margin-top: 16px;
