@@ -27,4 +27,4 @@ You may also find out more about Technology at BfE [here](https://tech.bridgesfo
 - Make a social impact with your professional skills while further developing them in the business context of an nonprofit incubator
 
 ### Application
-You may apply for this opening [here](https://forms.gle/tbBKj6TAAX1G2Y93A). We accept applications on a rolling basis.
+You may apply for this opening [**here**](https://forms.gle/tbBKj6TAAX1G2Y93A). We accept applications on a rolling basis.
