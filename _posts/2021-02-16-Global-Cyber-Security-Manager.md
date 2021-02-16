@@ -1,7 +1,7 @@
 ---
 title: "[Role] Global Cyber Security Manager"
 smallprint: "Commitment: 3-4 hrs/week"
-summary: "Help a growing global nonprofit to adopt the best security practice throughout our tech stack and safeguard our valuable data. Sharpen your technical skills while delivering a tangible social impact. Work with student and professional developers across the world with a shared passion in social causes." # this will be visible on platforms like LinkedIn when sharing
+summary: "Help a growing global nonprofit adopt the best security practice throughout our tech stack and safeguard our valuable data. Sharpen your technical skills while delivering a tangible social impact. Work with student and professional developers across the world with a shared passion in social causes." # this will be visible on platforms like LinkedIn when sharing
 categories: [Global, Technology]
 ---
 
