@@ -38,7 +38,7 @@ Just navigate to the file in `_posts` and edit.
 ## Accidentally deleted some content
 Don't worry. Use GitHub's [commit history](https://docs.github.com/en/github/committing-changes-to-your-project/differences-between-commit-views) functionality to view previous versions of the file and retrieve information from there.
 ## Remove a posting
-Put your post into `_posts\archived`. Read [here](https://docs.github.com/en/github/managing-files-in-a-repository/moving-a-file-to-a-new-location) on how to change the file path.
+Append `archived_` to your post name.
 ## Original template
 
 [Here](https://docs.unbound.studio/guia-jekyll-helpdesk-theme/).
