@@ -7,7 +7,7 @@ categories: [Global, Technology]
 
 As a global nonprofit that is managing a large network of entrepreneurs, professionals and students and that is constantly scaling our pro-bono incubation services, we strive to build technology products that facilitate efficient communication and effective resource sharing within and outside our network. We are looking for a Global Product Manager to lead the ideation, planning and feature management of our flagship web products: BfE website, Members Portal, Apps Portal or even new ones if you have other amazing ideas.
 
-You may also find out more about Technology at BfE [here](https://tech.bridgesforenterprise.com).
+You may also find out more about Technology at BfE [**here**](https://tech.bridgesforenterprise.com).
 
 ### Responsibilities
 - **Ideation.** Build your own vision about the products. Examine their existing features, and propose and prioritise new ideas that can allow them to have a greater impact on BfE and the community we serve. 
