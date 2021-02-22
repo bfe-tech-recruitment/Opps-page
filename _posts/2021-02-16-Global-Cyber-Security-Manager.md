@@ -7,7 +7,7 @@ categories: [Global, Technology]
 
 As a rapidly growing global nonprofit with a large network of entrepreneurs, professionals and students, we are developing and maintaining web services that handle a large influx of confidential data on a day-to-day basis. We are looking for a Global Cyber Security Manager to monitor the IT security risk across our tech stack, and design best practices to be enforced on developers and non-tech members in accordance with GDPR and our commitment to our entrepreneurs.
 
-You may also find out more about Technology at BfE [here](https://tech.bridgesforenterprise.com).
+You may also find out more about Technology at BfE [**here**](https://tech.bridgesforenterprise.com).
 
 ### Responsibilities
 - **Evaluation.** Review coding and DevOps practices adopted by various parts of the Tech Division, identify loopholes and propose methods to resolve them. Research on standard security practices best suited for BfE's context and think about best protocol to implement. 
