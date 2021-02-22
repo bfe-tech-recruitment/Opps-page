@@ -13,7 +13,7 @@ DevOps is a vital aspect of any growing codebase shared by multiple collaborator
 
 3. Redesign our workflow and deployment to incorporate a Content Delivery Network for more efficient serving of images, taking care of the various needs at development, testing and production and making the process as smooth as possible. You will learn about Terraform (infrastructure-as-code) and Azure in this work
 
-You may also find out more about Technology at BfE [here](https://tech.bridgesforenterprise.com).
+You may also find out more about Technology at BfE [**here**](https://tech.bridgesforenterprise.com).
 
 ### Requirements
 - Enthusiasm and commitment to BfE's cause
