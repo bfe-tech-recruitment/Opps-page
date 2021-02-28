@@ -28,4 +28,4 @@ If you are more interested in machine learning, you may want to check the [**sis
 - As part of BfE's internship programme, you will be joined with interns from technical and non-technical disciplines and have the opportunity to attend talks and workshops by different divisions of BfE to find out about our work. You will receive a formal reference letter at the end of your internship. You will be given the opportunity of joining our chapter or global team as a formal member subject to your performance and interest.
 
 ### Application
-You may apply for this opening [**here**](https://forms.gle/ZSrnz7N73rrgxh6n7). We accept applications on a rolling basis. We will start reviewing applications from 1 May onwards.
+You may apply for this opening [**here**](https://forms.gle/RpyaEKcxZY14wW6F8). We accept applications on a rolling basis. We will start reviewing applications from 1 May onwards.
