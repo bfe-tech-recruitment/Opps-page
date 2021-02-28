@@ -27,4 +27,4 @@ If you are more interested in machine learning, you may want to check the [**sis
 - Sharpen your skills in machine learning and broaden your project portfolio while knowing that your project will have a direct tangible impact on real-life businesses
 
 ### Application
-You may apply for this opening [**here**](https://forms.gle/ZSrnz7N73rrgxh6n7). We accept applications on a rolling basis.
+You may apply for this opening [**here**](https://forms.gle/ZSrnz7N73rrgxh6n7). We accept applications on a rolling basis. We will start reviewing applications from 1 May onwards.
