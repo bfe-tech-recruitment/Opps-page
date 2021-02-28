@@ -18,21 +18,21 @@ Upon finishing this project, if you wish to continue, you may join us as a tech 
 You may also find out more about Technology at BfE [**here**](https://tech.bridgesforenterprise.com).
 
 ### Requirements
-1. Ability to be flexible and independent, think on your feet and learn on the job. Strong desire to sharpen your technical skills through the project
-2. You are not required to know DevOps for this project, but are expected to have basic understanding and experience with at least one major cloud service provider. However if you do not have prior experience, you are expected to put in more time to learn DevOps and Cloud on the job
-3. Prior experience with Docker is required
-4. The tech stack will be Node.js and MongoDB. Prior exposure is desirable but not strictly required. Sound programming skills in at least one back-end language and one front-end framework are however expected
-5. You are expected to have min. 2 years' coding experience, familarity with Git and experience working on a shared codebase in the context of a corporate or a personal project
-6. Enthusiasm and commitment to BfE's cause
-7. Qualities of integrity, credibility, and a passion for using technology to build a more prosperous and sustainable future
-8. Desire to bring diverse perspectives, energy, knowledge and skills to the role
+- Ability to be flexible and independent, think on your feet and learn on the job. Strong desire to sharpen your technical skills through the project
+- You are not required to know DevOps for this project, but are expected to have basic understanding and experience with at least one major cloud service provider. However if you do not have prior experience, you are expected to put in more time to learn DevOps and Cloud on the job
+- Prior experience with Docker is required
+- The tech stack will be Node.js and MongoDB. Prior exposure is desirable but not strictly required. Sound programming skills in at least one back-end language and one front-end framework are however expected
+- You are expected to have min. 2 years' coding experience, familarity with Git and experience working on a shared codebase in the context of a corporate or a personal project
+- Enthusiasm and commitment to BfE's cause
+- Qualities of integrity, credibility, and a passion for using technology to build a more prosperous and sustainable future
+- Desire to bring diverse perspectives, energy, knowledge and skills to the role
 
 ### Perks
-1. Exposure to a wide range of components in software development workflow
-2. Support from our global technology team and experienced mentors in the industry
-3. Ownership over developing a brand new application, while knowing its immediate tangible impact on our community and the rest of the ecosystem 
-4. Constant interactions with a growing global community of diverse, talented and passionate BfE members across the world
-5. Avoid the monotony of corporate or university life by doing something meaningful and volunteering with your precioius free time
+- Exposure to a wide range of components in software development workflow
+- Support from our global technology team and experienced mentors in the industry
+- Ownership over developing a brand new application, while knowing its immediate tangible impact on our community and the rest of the ecosystem 
+- Constant interactions with a growing global community of diverse, talented and passionate BfE members across the world
+- Avoid the monotony of corporate or university life by doing something meaningful and volunteering with your precioius free time
 
 ### Application
 You may apply for this opening [**here**](https://forms.gle/ZSrnz7N73rrgxh6n7). We accept applications on a rolling basis.
