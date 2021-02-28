@@ -13,6 +13,8 @@ DevOps is a vital aspect of any growing codebase shared by multiple collaborator
 
 3. Redesign our workflow and deployment to incorporate a Content Delivery Network for more efficient serving of images, taking care of the various needs at development, testing and production and making the process as smooth as possible. You will learn about Terraform (infrastructure-as-code) and Azure in this work
 
+At the end of the project, depending on your interest and experience levels as well as our evaluation of your work, you may be presented with the opportunity to join our global leadership team as a Global DevOps Manager.
+
 You may also find out more about Technology at BfE [**here**](https://tech.bridgesforenterprise.com).
 
 ### Requirements
