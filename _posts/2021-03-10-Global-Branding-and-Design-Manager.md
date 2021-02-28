@@ -31,6 +31,7 @@ You may also find out more about Technology at BfE [**here**](https://tech.bridg
 - An opportunity to join the global leadership team in a large global nonprofit and network with people across different disciplines who share a joint passion in social entrepreneurship and startups
 - Constant interactions with a growing global community of diverse, talented and passionate BfE members across the world
 - Make a social impact with your professional skills while further developing them in the business context of an nonprofit incubator
+- Stay updated with latest web development trends with developers from BfE Technology while constantly exploring best practices for branding and marketing with members from our Outreach division
 
 ### Application
 You may apply for this opening [**here**](https://forms.gle/tbBKj6TAAX1G2Y93A). We accept applications on a rolling basis.
