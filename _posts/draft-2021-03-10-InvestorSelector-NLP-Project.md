@@ -17,17 +17,17 @@ Investor selector is a smart database proposed by BfE Technology to centralise a
 If you are more interested in server architecture, you may want to check the [**sister project**](https://opps.bridgesforenterprise.com/global/cambridge/singapore/newyork/rotterdam/vancouver/technology) for the investor selector. You may also find out more about Technology at BfE [**here**](https://tech.bridgesforenterprise.com).
 
 ### Requirements
-1. Ability to be flexible, independent, think on your feet and learn on the job
-2. Prior knowledge of statistics and machine learning is requried. Prior experience in real data analysis is highly desirable but not strictly required. A basic level of understanding of Natural Language Processing is expected
-3. Familiarty with Python and experience with working with Git are required. Experience with Colab is desirable but not strictly required
-4. Enthusiasm and commitment to BfE's cause
-5. Qualities of integrity, credibility, and a passion for using technology to build a more prosperous and sustainable future
-6. Desire to bring diverse perspectives, energy, knowledge and skills to the role
+- Ability to be flexible, independent, think on your feet and learn on the job
+- Prior knowledge of statistics and machine learning is requried. Prior experience in real data analysis is highly desirable but not strictly required. A basic level of understanding of Natural Language Processing is expected
+- Familiarty with Python and experience with working with Git are required. Experience with Colab is desirable but not strictly required
+- Enthusiasm and commitment to BfE's cause
+- Qualities of integrity, credibility, and a passion for using technology to build a more prosperous and sustainable future
+- Desire to bring diverse perspectives, energy, knowledge and skills to the role
 
 ### Perks
-1. Network with a growing global community of diverse, talented and passionate BfE members across the world
-2. Avoid the monotony of university life by doing something meaningful and volunteering with your precioius free time
-3. Sharpen your skills in machine learning and broaden your project portfolio while knowing that your project will have a direct tangible impact on real-life businesses
+- Network with a growing global community of diverse, talented and passionate BfE members across the world
+- Avoid the monotony of university life by doing something meaningful and volunteering with your precioius free time
+- Sharpen your skills in machine learning and broaden your project portfolio while knowing that your project will have a direct tangible impact on real-life businesses
 
 ### Application
 You may apply for this opening [**here**](https://forms.gle/ZSrnz7N73rrgxh6n7). We accept applications on a rolling basis.
