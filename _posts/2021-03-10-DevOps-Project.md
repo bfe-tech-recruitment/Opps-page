@@ -17,6 +17,8 @@ DevOps is a vital aspect of any growing codebase shared by multiple collaborator
 
 5. Set up an automated deployment pipeline of a GPU-enabled server to host our machine-learning driven apps, taking into consideration of how the services will be hosted and accessed by other internal applications. **6 hrs/ week for 8 weeks**
 
+If you are into DevOps but are not that keen to work on a fully technical role, check out the opportunity to lead our first [**open source initiative**](https://opps.bridgesforenterprise.com/global/technology/Open-BfE/)!
+
 Whichever track you follow, subject to your interest and experience levels as well as our evaluation of your work at the end of the project, you may be presented with the opportunity to join our global leadership team as a Global DevOps Manager.
 
 You may also find out more about Technology at BfE [**here**](https://tech.bridgesforenterprise.com).
