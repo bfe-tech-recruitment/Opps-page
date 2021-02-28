@@ -1,5 +1,7 @@
 # Opportunities Listing
 
+You are reminded that this is a public repository and any comments here are publicly available. Please restrict any discussion on the roles to our internal platforms.
+
 ## Add a posting
 
 1. Create a new file in the `_posts` folder in this GitHub repository. Name it as `YYYY-MM-DD-somename.md`, replacing `YYYY-MM-DD` with the date of creation and `somename` as the title of the role (this will only show in the url so you can use shortcut). 
