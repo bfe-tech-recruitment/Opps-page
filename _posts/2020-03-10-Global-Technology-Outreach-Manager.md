@@ -2,7 +2,7 @@
 title: "[Role] Global Technology Outreach Manager"
 smallprint: "Commitment: 5-6 hrs/week. Background in technology required."
 summary: "Looking to become a future leader in the technology industry? Build partnerships with tech firms and organisations across the world while contributing to a good cause. Challenge yourself with building a sustainable model to manage a growing base of developers." # this will be visible on platforms like LinkedIn when sharing
-categories: [Global, Technology, Outreach]
+categories: [Global, Outreach, Technology]
 ---
 
 At BfE, we strive to develop innovative and relevant products for our users through an ever growing base of student and professional developers. To improve the way we code,  learn from the industry experts and recruit the brightest talents, we actively partner with senior professionals, technology firms and student societies across the world. We also constantly think about how we can give back to the Technology ecosystem by the likes of open-source initiatives, events for young developers and hackathons for students. 
