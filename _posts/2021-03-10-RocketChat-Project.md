@@ -24,7 +24,7 @@ You may also find out more about Technology at BfE [**here**](https://tech.bridg
 4. The tech stack will be Node.js and MongoDB. Prior exposure is desirable but not strictly required. Sound programming skills in at least one back-end language and one front-end framework are however expected. 
 5. You are expected to have min. 2 years' coding experience, familarity with Git and experience working on a shared codebase in the context of a corporate or a personal project.
 6. Enthusiasm and commitment to BfE's cause.
-7. Qualities of integrity, credibility, and a passion for using entrepreneurship to build a more prosperous and sustainable future.
+7. Qualities of integrity, credibility, and a passion for using technology to build a more prosperous and sustainable future.
 8. Desire to bring diverse perspectives, energy, knowledge and skills to the role.
 
 ### Perks
