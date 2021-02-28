@@ -34,4 +34,4 @@ You may also find out more about Technology at BfE [**here**](https://tech.bridg
 - Stay updated with latest web development trends with developers from BfE Technology while constantly exploring best practices for branding and marketing with members from our Outreach division
 
 ### Application
-You may apply for this opening [**here**](https://forms.gle/tbBKj6TAAX1G2Y93A). We accept applications on a rolling basis.
+You may apply for this opening [**here**](https://forms.gle/RpyaEKcxZY14wW6F8). We accept applications on a rolling basis.
