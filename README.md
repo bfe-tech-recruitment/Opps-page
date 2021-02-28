@@ -38,7 +38,7 @@ Then,
 ## Edit file
 Just navigate to the file in `_posts` and edit.
 ## Accidentally deleted some content
-Don't worry. Use GitHub's [commit history](https://docs.github.com/en/github/committing-changes-to-your-project/differences-between-commit-views) functionality to view previous versions of the file and retrieve information from there.
+Don't worry. Use GitHub's [commit history](https://docs.github.com/en/github/committing-changes-to-your-project/differences-between-commit-views) functionality to view previous versions of the file and retrieve information from there. Click on `Raw` to access the code and copy them over.
 ## Remove a posting
 Append `archived-` to your post name.
 ## Original template
