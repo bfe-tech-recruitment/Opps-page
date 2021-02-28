@@ -34,4 +34,4 @@ This role will officially commence after exam period in Easter, although very mi
 - Enjoy the well-organised internal structure that makes your technical work easy while taking ownership of your own learning and your team's growth
  
 ### Application
-You may apply for this opening via [here](https://google.com). We accept applications on a rolling basis. We will start reviewing applications from 20th March onwards.
+You may apply for this opening via [here](https://forms.gle/RpyaEKcxZY14wW6F8). We accept applications on a rolling basis. We will start reviewing applications from 20th March onwards.
