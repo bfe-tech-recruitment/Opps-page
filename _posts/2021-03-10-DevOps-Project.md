@@ -1,19 +1,23 @@
 ---
-title: "[Project] DevOps and Cloud Engineering"
-smallprint: "5 hrs/week for 5 weeks, flexible starting date and negotiable schedule. Suitable for people with all experience levels in DevOps."
+title: "[Project] DevOps and Cloud Engineering (multiple projects available)"
+smallprint: "5-10 hrs/week for 5-10 weeks (depending on project and experience level), flexible starting date and negotiable schedule. Suitable for people with all experience levels in DevOps."
 summary: "Sharpen your DevOps and Cloud Engineering skills in the context of a codebase shared by our global develoeprs while contributing to a good cause. Make a tangible impact on our global social impact startup community with your professional skills. Potential to convert to a long-term volunteering position with flexible commitment in our global leadership team." # this will be visible on platforms like LinkedIn when sharing
 categories: [Global, Technology]
 ---
 
-DevOps is a vital aspect of any growing codebase shared by multiple collaborators that are delivering products live to the users. BfE has a preliminary internal CD/CI workflow to automate product testing and deployment. Depending on your level of experience with DevOps, this project will entail **one** of the following tasks (in the order of increasing technical difficulty):
+DevOps is a vital aspect of any growing codebase shared by multiple collaborators that are delivering products live to the users. BfE has a preliminary internal CD/CI workflow to automate product testing and deployment. Depending on your level of experience with DevOps, this project will follow **one** of the following tracks (in the order of increasing technical difficulty). Please note that the time below is a **very** rough estimate and can vary a lot depending on your experience level. 
 
-1. Understanding and documenting the current workflow in a clean and precise manner for the developers. Research about other standard DevOps practices, evaluate the current workflow and come up with a plan for future improvements
+1. Understanding and documenting the current workflow in a clean and precise manner for the developers. Research about other standard DevOps practices, evaluate the current workflow and come up with a plan for future improvements. **5 hrs/ week for 5 weeks**
 
-2. Design sensible Unit Tests for PHP and Javascript (and optionally Python Django / Flask) codes in our existing pipeline automated by GitHub Actions
+2. Design sensible Unit Tests for PHP and Javascript (and optionally Python Django / Flask) codes in our existing pipeline automated by GitHub Actions. **5 hrs/ week for 5 weeks**
 
-3. Redesign our workflow and deployment to incorporate a Content Delivery Network for more efficient serving of images, taking care of the various needs at development, testing and production and making the process as smooth as possible. You will learn about Terraform (infrastructure-as-code) and Azure in this work
+3. Redesign our workflow and deployment to incorporate a Content Delivery Network for more efficient serving of images, taking care of the various needs at development, testing and production and making the process as smooth as possible. You will learn about Terraform (infrastructure-as-code) and Azure in this work. **6 hrs/ week for 8 weeks**
 
-At the end of the project, depending on your interest and experience levels as well as our evaluation of your work, you may be presented with the opportunity to join our global leadership team as a Global DevOps Manager.
+4. Redesign our docker networking to enable mobile access through LAN to localhost. **6 hrs/ week for 3 weeks**
+
+5. Set up an automated deployment pipeline of a GPU-enabled server to host our machine-learning driven apps, taking into consideration of how the services will be hosted and accessed by other internal applications. **6 hrs/ week for 8 weeks**
+
+Whichever track you follow, subject to your interest and experience levels as well as our evaluation of your work at the end of the project, you may be presented with the opportunity to join our global leadership team as a Global DevOps Manager.
 
 You may also find out more about Technology at BfE [**here**](https://tech.bridgesforenterprise.com).
 
@@ -21,7 +25,7 @@ You may also find out more about Technology at BfE [**here**](https://tech.bridg
 - Enthusiasm and commitment to BfE's cause
 - Sound programming skills. You are expected to have min. 2 years' coding experience, familarity with Git and experience working on a shared codebase in the context of a corporate or a personal project
 - Strong interest in DevOps and Cloud Engineering
-- Docker knowledge is highly desirable in the second task and essential in the third task
+- Docker knowledge is highly desirable in track 2 and essential in track 3, 4 and 5
 - This project is primarily open to graduate students and working professionals. Exceptions can be made for extremely outstanding undergraduates. There are no geographical restrictions.
 
 ### Perks
