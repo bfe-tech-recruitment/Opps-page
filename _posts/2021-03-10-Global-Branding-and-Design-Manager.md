@@ -1,7 +1,7 @@
 ---
 title: "[Role] Global Branding and Design Manager"
 smallprint: "Commitment: 5-6 hrs/week. Background in technology required."
-summary: "Every non-profit relies on a successful brand to reach new audiences. Help build BfE into a recognizable organisation in the social enterprise space by working at the cutting edge of marketing, tech and design." # this will be visible on platforms like LinkedIn when sharing
+summary: "Every non-profit relies on a successful brand to reach new audiences. Help build BfE into a recognizable organisation in the social enterprise space." # this will be visible on platforms like LinkedIn when sharing
 categories: [Global, Technology, Outreach]
 ---
 
