@@ -1,6 +1,6 @@
 ---
 title: "[Role] Global Technology Outreach Manager"
-smallprint: "Commitment: 5-6 hrs/week. Background in technology required."
+smallprint: "Commitment: 6-7 hrs/week. Background in technology required."
 summary: "Looking to become a future leader in the technology industry? Build partnerships with tech firms and organisations across the world while contributing to a good cause. Challenge yourself with building a sustainable model to manage a growing base of developers." # this will be visible on platforms like LinkedIn when sharing
 categories: [Global, Technology]
 ---
@@ -16,7 +16,7 @@ You may also find out more about Technology at BfE [**here**](https://tech.bridg
 ### Responsibilities
 - **Partnerships.** Build your vision about what kind of technology partnerships BfE should build given our current needs, and advise Outreach members on what organisations to look for. Reach out actively to potential partners and forge relationships on behalf of the division.
 - **Outreach.** Plan initiatives and events to build our presence in the wider technology community, such as our internal open-source initiatives and Hackathon. 
-- **Recruitment.** Review recruitment efforts done by student teams and the global team, identify key gaps and work with outreach members or technology members to improve our outreach to the student and professional community. 
+- **Recruitment.** Manage global technology volunteer recruitment. Review recruitment efforts done by student teams, identify key gaps and work with outreach members or technology members to improve our outreach to the student and professional community. 
 ### Requirements
 - Enthusiasm and commitment to BfE's cause
 - Strong leadership and excellent communications skills
