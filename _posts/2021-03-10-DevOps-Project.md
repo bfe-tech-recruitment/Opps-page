@@ -13,7 +13,7 @@ DevOps is a vital aspect of any growing codebase shared by multiple collaborator
 
 3. Redesign our workflow and deployment to incorporate a Content Delivery Network for more efficient serving of images, taking care of the various needs at development, testing and production and making the process as smooth as possible. You will learn about Terraform (infrastructure-as-code) and Azure in this work. **6 hrs/ week for 8 weeks**
 
-4. Redesign our docker networking to enable mobile access through LAN to localhost. **6 hrs/ week for 3 weeks**
+4. Redesign our docker networking to enable mobile access through ngrok to localhost. **6 hrs/ week for 3 weeks**
 
 5. Set up an automated deployment pipeline of a GPU-enabled server to host our machine-learning driven apps, taking into consideration of how the services will be hosted and accessed by other internal applications. **6 hrs/ week for 8 weeks**
 
