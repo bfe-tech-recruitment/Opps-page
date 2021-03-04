@@ -7,7 +7,7 @@ categories: [Global, Technology]
 
 At BfE, we strive to develop innovative and relevant products for our users through an ever growing base of student and professional developers. To improve the way we code,  learn from the industry experts and recruit the brightest talents, we actively partner with senior professionals, technology firms and student societies across the world. We also constantly think about how we can give back to the Technology ecosystem by the likes of open-source initiatives, events for young developers and hackathons for students. 
 
-We are looking for a Global Technology Outreach Manager to work at the intersection of our growing Technology Division and our established Outreach Division. You will oversee and plan BfE's tech partnerships and outreach efforts, which are executed by our local outreach members. You will be the technical person in the partnerships talk to speak the tech lingua franca with our potential partners and forge important relationships on behalf of the organisation.
+We are looking for a Global Technology Outreach Manager to work at the intersection of our growing Technology Division and our established Outreach Division. You will oversee and plan BfE's tech partnerships and outreach initiatives, which are executed by our local technology and outreach members. You will be the technical person in the partnerships talk to speak the tech lingua franca with our potential partners and forge important relationships on behalf of the organisation.
 
 If you are interested in the work but unsure about committing immediately to a long-term role, we highly recommend you to check out [**OpenBfE**](https://opps.bridgesforenterprise.com/global/technology/Open-BfE/), our first internal open-source initiative that will expose you to the internal workflow in BfE Technology and get a feeling of the role.
 
@@ -16,7 +16,8 @@ You may also find out more about Technology at BfE [**here**](https://tech.bridg
 ### Responsibilities
 - **Partnerships.** Build your vision about what kind of technology partnerships BfE should build given our current needs, and advise Outreach members on what organisations to look for. Reach out actively to potential partners and forge relationships on behalf of the division.
 - **Outreach.** Plan initiatives and events to build our presence in the wider technology community, such as our internal open-source initiatives and Hackathon. 
-- **Recruitment.** Manage global technology volunteer recruitment. Review recruitment efforts done by student teams, identify key gaps and work with outreach members or technology members to improve our outreach to the student and professional community. 
+- **Recruitment.** Manage our global technology volunteer recruitment. Review recruitment efforts done by student teams, identify key gaps and work with outreach members or technology members to improve our outreach to the student and professional community. 
+- 
 ### Requirements
 - Enthusiasm and commitment to BfE's cause
 - Strong leadership and excellent communications skills
