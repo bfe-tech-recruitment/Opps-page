@@ -19,7 +19,7 @@ DevOps is a vital aspect of any growing codebase shared by multiple collaborator
 
 If you are into DevOps but are not that keen to work on a fully technical role, check out the opportunity to lead our first [**open source initiative**](https://opps.bridgesforenterprise.com/global/technology/Open-BfE/)!
 
-Whichever track you follow, subject to your interest and experience levels as well as our evaluation of your work at the end of the project, you may be presented with the opportunity to join our global leadership team as a Global DevOps Manager.
+Whichever track you follow, subject to your interest and experience levels as well as our evaluation of your work at the end of the project, you may be presented with the opportunity to join our global leadership team as a **Global DevOps Manager**.
 
 You may also find out more about Technology at BfE [**here**](https://tech.bridgesforenterprise.com).
 
