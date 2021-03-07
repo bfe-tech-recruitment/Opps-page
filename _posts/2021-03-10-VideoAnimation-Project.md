@@ -1,5 +1,5 @@
 ---
-title: "[Project] Video Animation"
+title: "[Project] Video Animation Project"
 smallprint: "Project Length: 6 hrs/week for 2-3 weeks. Experience Required: Medium."
 summary: "Are you skilled at creating unique animated videos? We are seeking someone with a superb command of video animation tools to craft a powerful video for our growing social impact audience. Potential to convert to a long-term volunteering position with flexible commitment in our global leadership team." # this will be visible on platforms like LinkedIn when sharing
 categories: [Global, Communications, Outreach, Technology]
