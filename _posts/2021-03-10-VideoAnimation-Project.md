@@ -5,7 +5,11 @@ summary: "Are you skilled at creating unique animated videos? We are seeking som
 categories: [Global, Communications, Outreach, Technology]
 ---
 
-We are seeking a talented professional with experience in video animation for this project. This project will be a wonderful opportunity to create a powerful video that walks social entrepreneurs through their journey in BfE. This video will be featured on our website and in social media campaigns targeting entrepreneurs who may be suitable for our pro bono Incubation Programme. As a result, your work will have a direct impact on the entrepreneurs we strive to serve. 
+We are seeking a talented professional with experience in video animation for this project. This project will be a wonderful opportunity to create a powerful 1-2 minute video that walks social entrepreneurs through their journey in BfE, from application to programme completion. This video will be featured on our website and in social media campaigns targeting entrepreneurs who may be suitable for our pro bono Incubation Programme. As a result, your work will have a direct impact on the entrepreneurs we strive to serve.
+
+Upon successful completion of this project, if you wish to continue, there may be additional opportunities to join us in a global video production/editing role.
+
+You may also find out more about Technology at BfE [**here**](https://tech.bridgesforenterprise.com/).
 
 ### Requirements
 - Ability to be flexible, independent, think on your feet and learn on the job
@@ -18,9 +22,11 @@ We are seeking a talented professional with experience in video animation for th
 - Desire to bring diverse perspectives, energy, knowledge and skills to the role
 
 ### Perks
+- Support from our global technology and outreach teams, as well as potential mentors in the industry
 - Network with a growing global community of diverse, talented and passionate BfE members across the world
-- Avoid the monotony of university or professional life by doing something meaningful and volunteering with your precioius free time
+- Avoid the monotony of corporate or university life by doing something meaningful and volunteering with your precioius free time
 - Sharpen your skills in video animation and broaden your project portfolio while knowing that your project will have a direct tangible impact on real-life businesses
+- Ownership over developing a brand new video, while knowing its immediate tangible impact on entrepreneurs we serve and the rest of the social enterprise ecosystem
 
 ### Application
-You may apply for this opening via [**here**](https://google.com). We accept applications on a rolling basis.
+You may apply for this opening via [**here**](https://forms.gle/8HCuKTPxX3cyhh1Z6). We accept applications on a rolling basis.
