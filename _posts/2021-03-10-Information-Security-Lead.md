@@ -1,11 +1,11 @@
 ---
-title: "[Role] Global Cyber Security Manager"
+title: "[Role] Information Security Lead"
 smallprint: "Commitment: 3-4 hrs/week"
 summary: "Help a growing global nonprofit adopt the best security practice throughout our tech stack and safeguard our valuable data. Sharpen your technical skills while delivering a tangible social impact. Work with student and professional developers across the world with a shared passion in social causes." # this will be visible on platforms like LinkedIn when sharing
 categories: [Global, Technology]
 ---
 
-As a rapidly growing global nonprofit with a large network of entrepreneurs, professionals and students, we are developing and maintaining web services that handle a large influx of confidential data on a day-to-day basis. We are looking for a Global Cyber Security Manager to monitor the IT security risk across our tech stack, and design best practices to be enforced on developers and non-tech members in accordance with GDPR and our commitment to our entrepreneurs.
+As a rapidly growing global nonprofit with a large network of entrepreneurs, professionals and students, we are developing and maintaining web services that handle a large influx of confidential data on a day-to-day basis. We are looking for an Information Security Lead to monitor the IT security risk across our tech stack, and design best practices to be enforced on developers and non-tech members in accordance with GDPR and our data protection commitment to our entrepreneurs.
 
 You may also find out more about Technology at BfE [**here**](https://tech.bridgesforenterprise.com).
 
