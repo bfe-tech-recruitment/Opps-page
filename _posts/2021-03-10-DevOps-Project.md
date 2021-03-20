@@ -1,11 +1,20 @@
 ---
 title: "[Project] DevOps and Cloud Engineering (multiple projects available)"
 smallprint: "5-10 hrs/week for 5-10 weeks (depending on project and experience level), flexible starting date and negotiable schedule. Suitable for people with all experience levels in DevOps."
-summary: "Sharpen your DevOps and Cloud Engineering skills in the context of a codebase shared by our global develoeprs while contributing to a good cause. Make a tangible impact on our global social impact startup community with your professional skills. Potential to convert to a long-term volunteering position with flexible commitment in our global leadership team." # this will be visible on platforms like LinkedIn when sharing
+summary: "Sharpen your DevOps and Cloud Engineering skills in the context of a codebase shared by our global develoeprs while contributing to a good cause" # this will be visible on platforms like LinkedIn when sharing
 categories: [Global, Technology]
 ---
 
 DevOps is a vital aspect of any growing codebase shared by multiple collaborators that are delivering products live to the users. BfE has a preliminary internal CD/CI workflow to automate product testing and deployment. Depending on your level of experience with DevOps, this project will follow **one** of the following tracks (in the order of increasing technical difficulty). Please note that the time below is a **very** rough estimate and can vary a lot depending on your experience level. 
+
+| Track         | Description           | Hours  |
+| ------------- |-----------------------| -------|
+| 1  | Understanding and documenting the current workflow in a clean and precise manner for the developers. Research about other standard DevOps practices, evaluate the current workflow and come up with a plan for future improvement | **5 hrs/ week for 5 weeks** |
+| 2  | centered      |   $12 |
+| 3  | are neat      |    $1 |
+| 4  | centered      |   $12 |
+| 5  | are neat      |    $1 |
+| 6  | are neat      |    $1 |
 
 1. Understanding and documenting the current workflow in a clean and precise manner for the developers. Research about other standard DevOps practices, evaluate the current workflow and come up with a plan for future improvements. **5 hrs/ week for 5 weeks**
 
