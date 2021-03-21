@@ -1,7 +1,7 @@
 ---
 title: "[Internship] Self-hosted Password Manager"
 smallprint: "Commitment: 16 hrs/week for 6-8 weeks. Schedule highly negotiable."
-summary: "Expose yourself to a wide range of technical knowledge from app development, database management, security to DevOps. Build a self-hosted password manager to transform our internal operations. Join a global nonprofit to contribute to a good cause while sharpening your technology skills." # this will be visible on platforms like LinkedIn when sharing
+summary: "Expose yourself to a wide range of technical knowledge from app development, database management, security to DevOps. Build a self-hosted password manager to transform our internal operations." # this will be visible on platforms like LinkedIn when sharing
 categories: [Global, Cambridge, Singapore, New York, Rotterdam, Vancouver, Technology]
 ---
 
