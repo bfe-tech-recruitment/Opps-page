@@ -1,7 +1,7 @@
 ---
 title: "[Project] Investor Selector (NLP) Project"
 smallprint: "Commitment: 12 hrs/week for 5 weeks. Schedule highly negotiable."
-summary: "Put your machine learning and natural language processing knowledge to practical use by building an algorithm to transform how we do finance consulting. Join a global nonprofit to contribute to a good cause while sharpening your technology skills." # this will be visible on platforms like LinkedIn when sharing
+summary: "Put your machine learning and natural language processing knowledge to practical use by building an algorithm to transform how we do finance consulting." # this will be visible on platforms like LinkedIn when sharing
 categories: [Global, Cambridge, Singapore, New York, Rotterdam, Vancouver, Technology]
 ---
 
