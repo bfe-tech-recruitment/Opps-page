@@ -1,7 +1,7 @@
 ---
 title: "[Project] Internal Chat Platform Project"
 smallprint: "Commitment: 8-10 hrs/week for 3 months. Highly negotiable. Intermediate to advanced coding skills expected."
-summary: "Challenge yourself with building an automated chat platform with a fast-growing global nonprofit." # this will be visible on platforms like LinkedIn when sharing
+summary: "Challenge yourself with building an automated chat platform with a fast-growing global nonprofit" # this will be visible on platforms like LinkedIn when sharing
 categories: [Global, Technology]
 ---
 
