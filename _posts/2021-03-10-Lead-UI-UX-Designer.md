@@ -1,11 +1,11 @@
 ---
-title: "[Role] Global UI/UX Manager"
+title: "[Role] Lead UI/UX Designer"
 smallprint: "Commitment: 5-6 hrs/week. Background in front-end design required."
 summary: "Every non-profit relies on a successful brand to reach new audiences. Help build BfE into a recognizable organisation in the social enterprise space." # this will be visible on platforms like LinkedIn when sharing
 categories: [Global, Technology, Outreach]
 ---
 
-As a global nonprofit that is managing a large network of entrepreneurs, professionals and students and that is constantly scaling our pro-bono incubation services, we strive to build technology products that facilitate efficient communication and effective resource sharing within and outside our network. We are looking for a Global UI / UX Manager to lead the overall front-end design strategy for the BfE website, Members Portal and any external communications materials.
+As a global nonprofit that is managing a large network of entrepreneurs, professionals and students and that is constantly scaling our pro-bono incubation services, we strive to build technology products that facilitate efficient communication and effective resource sharing within and outside our network. We are looking for a Lead UI / UX Designer to oversee the front-end design strategy for our BfE website, Members Portal and any external communications materials.
 
 You may also find out more about Technology at BfE [**here**](https://tech.bridgesforenterprise.com).
 
