@@ -12,7 +12,7 @@ You may also find out more about Technology at BfE [**here**](https://tech.bridg
 ### Responsibilities
 - **Design Styling.** Spearhead the creation of tech styling codes that correspond to BfE branding guidelines (in the Brand Book), and liaise with the BfE Technology Division to ensure these are used in future tasks. 
 - **Product Interface.** Develop and maintain a repository of digital design assets and stylesheets in line with the branding guidelines, and enforce them across our front-end developers.
-- **Communication.** Provide ad-hoc support and guidance to chapter communications directors on branding and design standardization across social media platforms. Provide additional feedback to global heads regarding the quality and effectiveness of BfE global and chapter-level branding and design, and suggest ways to improve moving forward.
+- **Communication.** Provide ad-hoc support and guidance to chapter communications directors on branding and design standardisation across social media platforms. Provide additional feedback to global heads regarding the quality and effectiveness of BfE global and chapter-level branding and design, and suggest ways to improve moving forward.
 - **Leadership.** Meet with global heads and other global managers to help set the divisional goals and objectives for the forthcoming academic year, including specific ideas to improve BfE's global brand and product design.
 
 
