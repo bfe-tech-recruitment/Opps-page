@@ -25,13 +25,13 @@ You may also find out more about Technology at BfE [**here**](https://tech.bridg
 - Care about quality and timely delivery
 - Flexible and always keen to stay up-to-date with the latest tools and practices relevant to branding and design features
 - You are highly organised and have excellent planning skills. Prior UI/social design work and experience working with programmers are desirable but not necessary
-- This role is open to graduate students and working professionals. Exceptions can be made for extremely outstanding undergraduates. There are no geographical restrictions.
+- This role is open to graduate students and working professionals. Exceptions can be made for outstanding undergraduates. There are no geographical restrictions.
 
 ### Perks
 - An opportunity to join the global leadership team in a large global nonprofit and network with people across different disciplines who share a joint passion in social entrepreneurship and startups
 - Constant interactions with a growing global community of diverse, talented and passionate BfE members across the world
 - Make a social impact with your professional skills while further developing them in the business context of an nonprofit incubator
-- Stay updated with latest web development trends with developers from BfE Technology while constantly exploring best practices for branding and marketing with members from our Outreach division
+- Stay updated with latest front-end development trends with developers from BfE Technology while constantly exploring best practices for branding and marketing with members from our Outreach division
 
 ### Application
 You may apply for this opening [**here**](https://forms.gle/RpyaEKcxZY14wW6F8). We accept applications on a rolling basis.
