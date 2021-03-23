@@ -5,7 +5,7 @@ summary: "Sharpen your DevOps and Cloud Engineering skills in the context of a c
 categories: [Global, Technology]
 ---
 
-DevOps is a vital aspect of any growing codebase shared by multiple collaborators that are delivering products live to the users. BfE has a preliminary internal CD/CI workflow to automate product testing and deployment. Depending on your level of experience with DevOps, this project will follow **one** of the following tracks (in the order of increasing technical difficulty). Please note that the time below is a **very** rough estimate and can vary a lot depending on your experience level. 
+DevOps is a vital aspect of any growing codebase shared by multiple collaborators that are delivering products live to the users. BfE has a preliminary internal CD/CI workflow to automate product testing and deployment. Depending on your level of experience with DevOps, this project will follow **one** of the following tracks (in the order of increasing technical difficulty). Please note that the time below is a **very** rough estimate and can vary a lot depending on your experience level. Our current pipelines are built with Docker, GitHub Actions, Terraform and Azure cloud, although we are planning to deploy applications on AWS soon.
 
 | Track         | Description           | Hours  |
 | ------------- |-----------------------| -------|
