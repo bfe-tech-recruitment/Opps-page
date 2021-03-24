@@ -19,8 +19,8 @@ You may also find out more about Technology at BfE [**here**](https://tech.bridg
 - Passion in cyber security and care about quality
 - Highly organised with excellent planning skills
 - Flexible and always keen to stay up-to-date with latest tools and practices relevant to security
-- Min. 2 years of coding experience with high familiarity in at least one mainstream web development framework. Prior experience studying or working in information security is highly desirable. Exposure to **at least one** of cloud architecture and DevOps is required.  
-- This role is open to graduate students and working professionals. Exceptions can be made for extremely outstanding undergraduates. There are no geographical restrictions.
+- Min. 2 years of coding experience. High amiliarity with at least one mainstream web development framework. Prior exposure to information security through studying, working or personal projects is highly desirable. Exposure to **at least one** of cloud architecture and DevOps via courses or projects is highly desirable.  
+- This role is open to students and working professionals. There are no geographical restrictions.
 
 ### Perks
 - An opportunity to join the global leadership team in a large global nonprofit and network with people across different disciplines who share a joint passion in social entrepreneurship and startups
