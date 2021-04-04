@@ -28,4 +28,4 @@ We are looking for students passionate about the early-stage funding landscape f
 - As part of BfE’s internship programme, you will be joined with interns from non-technical and technical disciplines and have the opportunity to attend talks and workshops by different divisions to find out about our work. You will receive a formal reference letter at the end of your internship
 
 ### Application
-You may apply for this opening via [**here**](https://google.com). We accept applications on a rolling basis. We will start reviewing applications from 1 May onwards.
+You may apply for this opening [**here**](https://forms.gle/uvzRm8MadVhBNo6A6). We accept applications on a rolling basis. We will start reviewing applications from 1 May onwards.
