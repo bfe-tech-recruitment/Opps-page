@@ -1,5 +1,5 @@
 ---
-title: "[Role] Global Product Manager"
+title: "[Role] Lead Product Manager"
 smallprint: "Commitment: 5-6 hrs/week. Coding skills not required but tech awareness is expected."
 summary: "Apply your product management skills and passion in technology to drive the strategy and roadmap for products connecting the global social entrepreneurship community. Work with our diverse range of volunteer developers from students to professionals and scale BfE's social impact." # this will be visible on platforms like LinkedIn when sharing
 categories: [Global, Technology]
