@@ -9,7 +9,7 @@ Since our founding in 2015, BfE has grown in size from a small student club at t
 
 We are also seeking ways to expand our audience through targeted outreach in select media outlets. If you have a background in public relations, media or communications, then this opportunity is perfect for you. During this role, you will be spearheading media outreach on behalf of BfE, while also seeking press for select startups in our portfolio. As such, you will have the chance to speak with the social entrepreneurs we serve by helping to shine a light on their businesses and showcase why they’re an attractive candidate for further investment.
 
-We are looking for PR, media or comms students passionate about our mission to democratise access to advisory services for social enterprises in the developing world. This internship is most suitable for first and second year college students who can dedicate 10-15 hours per week to this internship. Our schedule is highly flexible and we can work with you to tailor this internship accordingly.
+We are looking for PR, media or comms students passionate about our mission to democratise access to advisory services for social enterprises in the developing world. This internship is most suitable for first and second year college students who can dedicate 15-20 hours per week to this internship. Our schedule is highly flexible and we can work with you to tailor this internship accordingly.
 
 ### Requirements
 - Flexible, driven and ability to think on your feet
