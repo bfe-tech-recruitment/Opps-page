@@ -1,6 +1,6 @@
 ---
 title: "[Internship] Talent Strategy"
-smallprint: "Project Length: 15-20 hrs/week for 6-8 weeks. Schedule highly negotiable."
+smallprint: "Commitment: 15-20 hrs/week for 6-8 weeks. Schedule highly negotiable."
 summary: "Put your strategy and consulting skills to the test. Be our internal talent guru and help us devise a more efficient organisational structure. Applications will be reviewed from 1 May onwards." # this will be visible on platforms like LinkedIn when sharing
 categories: [Global, Operations, Impact Research]
 ---
