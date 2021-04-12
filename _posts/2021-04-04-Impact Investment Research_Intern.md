@@ -1,6 +1,6 @@
 ---
 title: "[Internship] Impact Investment Research"
-smallprint: "Project Length: 15-20 hrs/week for 6-8 weeks. Schedule highly negotiable."
+smallprint: "Commitment: 15-20 hrs/week for 6-8 weeks. Schedule highly negotiable."
 summary: "Dive deep into the social enterprise funding landscape and create tangible impact. Conduct research to build out a database of active funding opportunities for startups in our Incubation Programme. Applications will be reviewed from 1 May onwards." # this will be visible on platforms like LinkedIn when sharing
 categories: [Global, Incubation, Impact Research]
 ---
