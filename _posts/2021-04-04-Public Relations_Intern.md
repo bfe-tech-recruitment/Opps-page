@@ -1,6 +1,6 @@
 ---
 title: "[Internship] Public Relations"
-smallprint: "Project Length: 15-20 hrs/week for 6-8 weeks. Schedule highly negotiable."
+smallprint: "Commitment: 15-20 hrs/week for 6-8 weeks. Schedule highly negotiable."
 summary: "Help BfE gain media exposure by improving our communications messages. Conduct outreach to different media outlets, spearhead the creation of a communications brief for our global org, and support us with various marketing tasks. Applications will be reviewed from 1 May onwards." # this will be visible on platforms like LinkedIn when sharing
 categories: [Global, Outreach]
 ---
