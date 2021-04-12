@@ -2,7 +2,7 @@
 title: "[Internship] Development"
 smallprint: "Project Length: 15-20 hrs/week for 6-8 weeks. Schedule highly negotiable."
 summary: "Gain valuable experience in the non-profit funding world. Conduct prospect research on potential BfE donors to build out a database for suitable opportunities. Applications will be reviewed from 1 May onwards." # this will be visible on platforms like LinkedIn when sharing
-categories: [Global, Operations]
+categories: [Global, Operations, Outreach]
 ---
 
 Since our founding in 2015, BfE has grown in size from a small student club at the University of Cambridge to a global non-profit with 200+ active members around the world. The size and scope of our organization has expanded our capabilities to serve passionate social entrepreneurs, students and professional mentors around the world. While expansion has paved the way for positive growth, we now face some organisational constraints without exploring potential funding opportunities. Our current reality and future dreams make it imperative that we kickstart research into non-profit funding options to fuel our further growth.
