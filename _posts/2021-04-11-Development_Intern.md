@@ -1,6 +1,6 @@
 ---
 title: "[Internship] Development"
-smallprint: "Project Length: 15-20 hrs/week for 6-8 weeks. Schedule highly negotiable."
+smallprint: "Commitment: 15-20 hrs/week for 6-8 weeks. Schedule highly negotiable."
 summary: "Gain valuable experience in the non-profit funding world. Conduct prospect research on potential BfE donors to build out a database for suitable opportunities. Applications will be reviewed from 1 May onwards." # this will be visible on platforms like LinkedIn when sharing
 categories: [Global, Operations, Outreach]
 ---
