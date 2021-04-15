@@ -1,11 +1,11 @@
 ---
 title: "[Internship] Development"
-smallprint: "Commitment: 15-20 hrs/week for 6-8 weeks. Schedule highly negotiable."
+smallprint: "Commitment: 15-20 hrs/week for 8-10 weeks. Schedule highly negotiable."
 summary: "Gain valuable experience in the non-profit funding world. Conduct prospect research on potential BfE donors to build out a database for suitable opportunities. Applications will be reviewed from 1 May onwards." # this will be visible on platforms like LinkedIn when sharing
 categories: [Global, Operations, Outreach]
 ---
 
-Since our founding in 2015, BfE has grown in size from a small student club at the University of Cambridge to a global non-profit with 200+ active members around the world. The size and scope of our organization has expanded our capabilities to serve passionate social entrepreneurs, students and professional mentors around the world. While expansion has paved the way for positive growth, we now face some organisational constraints without exploring potential funding opportunities. Our current reality and future dreams make it imperative that we kickstart research into non-profit funding options to fuel our further growth.
+Since our founding in 2015, BfE has grown in size from a small student club at the University of Cambridge to a global non-profit with 200+ active members around the world. The size and scope of our organisation has expanded our capabilities to serve passionate social entrepreneurs, students and professional mentors around the world. While expansion has paved the way for positive growth, we now face some organisational constraints without exploring potential funding opportunities. Our current reality and future dreams make it imperative that we kickstart research into non-profit funding options to fuel our further growth.
 
 As a BfE Development Intern, you will have the unique opportunity to lead prospect research – from the ground up – into potential individual, corporate and foundation donors. This research will be logged and categorized in our internal database for future outreach by our global leadership team. During this internship, you can expect to conduct both primary research (i.e. talking to non-profit development professionals), as well as desk research. You’ll get an inside look into how an early-stage non-profit like BfE navigates the funding process for the first time. You may also assist with creating templates for grant applications, using our CRM tool, and supporting us with various donor outreach tasks. This internship will work closely with the top leadership of BfE. 
 
