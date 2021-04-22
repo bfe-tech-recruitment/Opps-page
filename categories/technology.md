@@ -1,6 +1,7 @@
 ---
 layout: category
 permalink: /technology/
+website: https://tech.bridgesforenterprise.com
 pagination: 
   enabled: true
   permalink: /:num/
