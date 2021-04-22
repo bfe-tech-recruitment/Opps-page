@@ -25,7 +25,13 @@ layout: default
               {% endif %}
             </div>
             <div class="uk-width-expand">
+              {% if item.website %}
+                <a href="{{ item.website }}" target="_blank">
+              {% endif %}
               <h1 class="uk-article-title uk-margin-remove">{{ item.title }}</h1>
+              {% if item.website %}
+                </a>
+              {% endif %}
               <p class="uk-text-lead uk-text-muted uk-margin-small-top">{{ item.desc }}</p>
             </div>
           </div>
