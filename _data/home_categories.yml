@@ -1,4 +1,14 @@
 # Categories separated in sections
+- title: All
+  subtitle:
+  category: all
+  categories:
+
+    - permalink: /all/
+      title: All Opportunities
+      desc: 
+      custom-icon: bfe.png
+
 - title: By Division
   subtitle:
   category: division
