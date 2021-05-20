@@ -5,7 +5,7 @@
   categories:
 
     - permalink: /all/
-      title: All Opportunities
+      title: View All Opportunities
       desc: 
       custom-icon: bfe.png
 
@@ -25,7 +25,7 @@
       icon: social
 
     - permalink: /operations/
-      title: Operations
+      title: Strategy and Operations
       desc: Startup Assessment | Mentorship Outreach | Programme Management 
       icon: settings
 
