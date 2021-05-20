@@ -41,7 +41,7 @@ layout: default
     {% endfor %}
     <div class="uk-margin-medium-top">
       {% for post in site.posts %}
-        {% if post.categories contains current_category.title or if current_category.title == "all" %}
+        {% if (post.categories contains current_category.title) or (current_category.title == "all") %}
         <div class="uk-card uk-card-category uk-card-default uk-card-hover uk-card-body uk-inline uk-border-rounded uk-width-1-1">
           <a class="uk-position-cover" href="{{ post.url | relative_url }}"></a>
           <h3 class="uk-card-title uk-margin-remove uk-text-primary">{{ post.title | escape }}</h3>
