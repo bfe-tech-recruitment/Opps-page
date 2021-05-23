@@ -21,4 +21,4 @@ Each engagement, lasting 3-4 months, is assisted by a mentor, a professional con
 4. Open-ended but structure project environment
 
 ### Application
-You may apply for this opening [**here**] (http://docs.google.com/forms/d/e/1FAIpQLSc_qPYb00U5wUUeXrgNYVoDaKxQO3YpWKP0Ckq9KwF5VPu1jQ/viewform). The deadline for this opening is 31 May 2021.
+You may apply for this opening [**here**] (https://forms.gle/CGbPjQ46wQo2CQ5k8). The deadline for this opening is 31 May 2021.
