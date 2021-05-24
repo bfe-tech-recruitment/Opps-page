@@ -17,5 +17,5 @@ categories: [Vancouver, Outreach, Communications]
 3. Gain practical skills that matter in the workplace
 
 ### Application
-You may apply for this opening [**here**] (https://forms.gle/CGbPjQ46wQo2CQ5k8). The deadline for this opening is 31 May 2021.
+You may apply for this opening [**here**](https://forms.gle/CGbPjQ46wQo2CQ5k8). The deadline for this opening is 31 May 2021.
  
