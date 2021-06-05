@@ -7,7 +7,7 @@ categories: [Global, Technology, Outreach]
 
 Effective UI design management in the context of rapidly changing web development landscape and product design trends remains a critical challenge to many organisations. This is no different for us at Bridges for Enterprise, a global nonprofit working with a range of local and global media channels and building a variety of tech applications to serve our community. As our repository of design guidelines and digital assets grows, we are looking for a passionate volunteer to join us in building our first UI design system and putting structure into creativity.
 
-This project is led by our UI/UX Manager, a senior product design professional with experience leading UI/UX teams of various scales. You will help with setting up UI components on [Figma](https://www.figma.com/) and [Zeroheight](https://zeroheight.com/) and putting in place documentations and protocols to facilitate its adoption across our global team.
+This project is led by our UI/UX Manager, a senior product design professional with experience leading UI/UX teams of various scales. You will help with setting up UI components on [Figma](https://www.figma.com/) and [Zeroheight](https://zeroheight.com/) and putting in place documentations and protocols to facilitate its adoption across our global team. See an [example](https://www.decathlon.design/726f8c765/p/54c71f-mobile/b/71de5a) of what we are building (we are doing a much scaled-down version but with similar setup and tools).
 
 You may also find out more about Technology at BfE [**here**](https://tech.bridgesforenterprise.com).
 
