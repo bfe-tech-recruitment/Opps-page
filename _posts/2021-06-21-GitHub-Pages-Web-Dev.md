@@ -1,5 +1,5 @@
 ---
-title: "[Project] GitHub Pages Web Development"
+title: "[Project] GitHub Pages Web Development (Suitable for Beginner to Intermediate)"
 smallprint: "5-10 hrs/week for 6 weeks (depending on experience level), flexible starting date and negotiable schedule. Suitable for undergraduate students interested in web development."
 summary: "Kickstart your software development journey with BfE Technology and join an enthusiastic community of developers to build tools that deliver a social impact! " # this will be visible on platforms like LinkedIn when sharing
 categories: [Global, Technology]
@@ -19,7 +19,7 @@ In the first two weeks, you will learn how GitHub page and Jekyll works, and bui
 ### Requirements
 - High enthusiasm and commitment to BfE's cause
 - Teamwork and responsibility
-- Strong passion in Technology and software development
+- Strong interest in Technology and software development
 - Some exposure to programming and web development (basic HTML and CSS). Familiarity with Git is a plus but not requried.
 - This project is primarily open to undergraduate students who are not in their final year. All are welcome but preferences are given to students based in one of our existing Chapters, namely
   - New York, United States (with preference for students in *New York University*)
