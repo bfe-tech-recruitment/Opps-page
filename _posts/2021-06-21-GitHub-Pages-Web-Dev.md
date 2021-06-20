@@ -5,17 +5,16 @@ summary: "Kickstart your software development journey with BfE Technology and jo
 categories: [Global, Technology]
 ---
 
-[Bridges for Enterprise](https://bridgesforenterprise.com) is a global nonprofit that provides pro-bono incubation services to social enterprise startups in the developing world. In BfE Technology, developers, product managers and designers work together to build websites, apps and tools that drive our global operation and market us to the community that needs our services.
+[Bridges for Enterprise](https://bridgesforenterprise.com) is a global nonprofit that provides pro-bono incubation services to social enterprise startups in the developing world. In BfE Technology, developers, product managers and designers work together to build websites, apps and tools that drive our global operation and market us to the global community that may benefit from our help. You may find out more about Technology at BfE [**here**](https://tech.bridgesforenterprise.com).
 
-We are currently looking for 2 volunteers to take on a project for building GitHub Pages for BfE's sister organisation, Bridges for Charity, as well as our umbrella organisation, Bridges Initiative. In the first two weeks, you will learn how GitHub page and Jekyll works, and build a MVP for the website. Then, you will work towards incorporating structures into your code with clear documentations that allow future BfE-related entities to easily create websites based off your template. Depending on the progress and your interest, you will be able to proceed with one or more of the following options:
+We are currently looking for 2 volunteers to take on a project for building GitHub Pages for BfE's sister organisation, Bridges for Charity, as well as our umbrella organisation, Bridges Initiative. You will be working closely with our Global Head of Technology and have the chance to understand our various tech tools as well as how the organisation works. Upon completion, you will have the chance to join other more advanced projects, or, depending on your performance in the project, be invited to join one of our student chapters as a Technology Associate or a Technology Director. 
+
+### Project Outline
+In the first two weeks, you will learn how GitHub page and Jekyll works, and build a MVP for the website. Then, you will work towards incorporating structures into your code with clear documentations that allow future BfE-related entities to easily create websites based off your template. Depending on the progress and your interest, you will be able to proceed with one or more of the following options:
 
 - helping with the next release of our [technology website](https://tech.bridgesforenterprise.com), where you will get exposed to more advanced front-end development techniques and UX design principles. You may have the chance to work alongside our Tech Strategies Manager to understand and consolidate BfE's branding strategy.
 
 - incorporating [storybook.js](https://storybook.js.org/), a popular UI management tool into your codebase, to allow syncing up of UI system with the rest of BfE apps. You will get exposed to practices in code management, deployment and potentially DevOps.
-
-In this project, you will be working closely with our Global Head of Technology and have the chance to understand our various tech tools as well as how the organisation works. Upon completion, you will have the chance to join other more advanced projects, or, depending on your performance in the project, be invited to join one of our student chapters as a Technology Associate or a Technology Director. 
-
-You may also find out more about Technology at BfE [**here**](https://tech.bridgesforenterprise.com).
 
 ### Requirements
 - High enthusiasm and commitment to BfE's cause
