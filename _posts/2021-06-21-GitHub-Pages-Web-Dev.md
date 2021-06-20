@@ -22,8 +22,8 @@ In the first two weeks, you will learn how GitHub page and Jekyll works, and bui
 - Strong passion in Technology and software development
 - Some exposure to programming and web development (basic HTML and CSS). Familiarity with Git is a plus but not requried.
 - This project is primarily open to undergraduate students who are not in their final year. All are welcome but preferences are given to students based in one of our existing Chapters, namely
-  - New York, United States (with stronger preference for students in New York University)
-  - Cambridge, United Kingdom (with stronger preference for students in University of Cambridge)
+  - New York, United States (with preference for students in *New York University*)
+  - Cambridge, United Kingdom (with preference for students in *University of Cambridge*)
   - Singapore (any university is welcome)
   - Vancouver, Canada (any university is welcome)
   - Rotterdam, Netherlands (any university is welcome)
