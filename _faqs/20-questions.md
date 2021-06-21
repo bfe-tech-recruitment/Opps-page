@@ -16,8 +16,7 @@ Email `team@bridgesforenterprise.com`, where `team` is replaced by one of the fo
 - **Operations:** operations
     * **Startup Recruitment:** startup.recruitment
 - **Impact Research:** impact.research
-- **Technology:** technology
-    * **Internal Technology:** internal.technology
+- **Technology:** technology.recruitment
 
 ### By Chapter
 - **Global:** leadership
