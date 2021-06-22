@@ -1,6 +1,6 @@
 ---
 title: "[Project] Application Portal (React / Django / DevOps)"
-smallprint: "Commitment: 10 hrs/week for 2 months. Schedule negotiable. Prior experience preferred."
+smallprint: "Commitment: 10 hrs/week for 8 weeks. Schedule negotiable. Prior experience preferred."
 summary: "Sharpen your development and project management skills while creating lasting social impact" # this will be visible on platforms like LinkedIn when sharing
 categories: [Global, Technology]
 ---
