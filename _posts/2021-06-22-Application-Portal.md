@@ -5,7 +5,7 @@ summary: "Sharpen your development and project management skills while creating 
 categories: [Global, Technology]
 ---
 
-As a global nonprofit offering pro-bono incubation services, we receive many applications from around the world and manage a robust selection process. This project involves building a MVP for an application portal that allows applicants to track their application, schedule interviews and manage their data. This will sync with BfE's centralised database, allowing successful applicants to have a smooth onboarding process into BfE and saving us many volunteer manpower in manually sorting out their data. We are looking for developers with experience in one of React and Django, as well as developers interested in learning about DevOps.
+As a global nonprofit offering pro-bono incubation services, we receive many applications from around the world and manage a robust selection process. This project involves building a MVP for an application portal that allows applicants to track their application, schedule interviews and manage their data. This will sync with BfE's centralised database, allowing successful applicants to have a smooth onboarding process into BfE and saving us many volunteer manpower in manually sorting out their data. We are looking for volunteers with experience in one of React and Django, as well as developers interested in learning about DevOps.
 
 You will work closely with our two junior student developers from New York University and split your time between coding and mentoring, depending on your personal preference. You will also work with the global team that maintains the Docker infrastructure for React x Django and may contribute to improving our existing Docker setup. 
 
