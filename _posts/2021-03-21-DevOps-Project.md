@@ -11,10 +11,10 @@ DevOps is a vital aspect of any growing codebase shared by multiple collaborator
 | ------------- |-----------------------| -------|
 | 1  | Understanding and documenting the current workflow in a clean and precise manner for the developers. Research about other standard DevOps practices, evaluate the current workflow and come up with a plan for future improvement | **5 hrs/ week for 5 weeks** |
 | 2  | Design sensible Unit Tests for PHP and Javascript (and optionally Python Django / Flask) codes in our existing pipeline automated by GitHub Actions.   | **5 hrs/ week for 5 weeks**  |
-| 3  | Implement a github action lock for test server environment. This primarily involves GitHub Action and GitHub Cli. | **4 hrs/ week for 4 weeks** |
+| ~~3~~  | ~~Implement a github action lock for test server environment. This primarily involves GitHub Action and GitHub Cli.~~ | ~~**4 hrs/ week for 4 weeks**~~ |
 | 4  | Redesign our workflow and deployment to incorporate a Content Delivery Network for more efficient serving of images, taking care of the various needs at development, testing and production and making the process as smooth as possible. You will learn about Terraform (infrastructure-as-code) and Azure in this work.  |**6 hrs/ week for 8 weeks** |
 | ~~5~~  |  ~~Redesign our docker networking to enable mobile access through ngrok to localhost.~~   | ~~**6 hrs/ week for 3 weeks**~~ |
-| 6  |  Set up an automated deployment pipeline of a GPU-enabled server to host our machine-learning driven apps, taking into consideration of how the services will be hosted and accessed by other internal applications.  |  **6 hrs/ week for 8 weeks** |
+| ~~6~~  |  ~~Set up an automated deployment pipeline of a GPU-enabled server to host our machine-learning driven apps, taking into consideration of how the services will be hosted and accessed by other internal applications.~~  |  ~~**6 hrs/ week for 8 weeks**~~ |
 
 If you are into DevOps but are not that keen to work on a fully technical role, check out the opportunity to lead our first [**open source initiative**](https://opps.bridgesforenterprise.com/global/technology/Open-BfE/)!
 
