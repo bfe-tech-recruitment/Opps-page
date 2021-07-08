@@ -1,12 +1,12 @@
 ---
 layout: category
-permalink: /operations/
+permalink: /stratops/
 pagination: 
   enabled: true
   permalink: /:num/
   categories:
     values:
-      - Operations
+      - Strategy and Operations
     matching: any
   # sort_field: 'title'
   # sort_reverse: false
