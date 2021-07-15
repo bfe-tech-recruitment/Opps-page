@@ -1,5 +1,5 @@
 ---
-title: "[Project] Database Migration and Business Operation Digitalisation (5-6 hours / week for 8 weeks)"
+title: "[Project] Database Migration and Business Operation Digitalisation"
 smallprint: "Commitment: 5-6 hrs/week for 8 weeks"
 summary: "Want to sharpen your database management and business operation skills while contributing to a good cause? Want to work with an ever-growing set of interesting structured and unstructured data, pick up different database management tools, and work with a group of passionate and socially-oriented developers to see data in action in a variety of technical projects?" # this will be visible on platforms like LinkedIn when sharing
 categories: [Global, Technology]
