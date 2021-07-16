@@ -2,7 +2,7 @@
 title: "[Role] Compliance Manager for a Global Nonprofit"
 smallprint: "This is a permanent volunteer role with the nonprofit with an estimated commitment level of 4-5 hrs / week."
 summary: "Sharpen your risk management and operation skills, and broaden your compliance and regulatory knowledge in the context of a global nonprofit"
-categories: [Global, StratOps]
+categories: [Global, Strategy and Operations]
 ---
 
 Since our founding in 2015, BfE has grown in size from a small student club at the University of Cambridge to a global non-profit with 300+ active volunteers working with 100+ startups around the world. As our organisation structure becomes more complex, so are the compliance challenges in making sure we operate in accordance with internal policies and external regulations, both locally and globally. The problems we face are very unique given our all-volunteer nature, our nonprofit status and our remote working mode. We are looking for a volunteer with background in corporate compliance to join our global management team in strategy, operations and technology. You will be the mastermind for designing, improving and managing our internal compliance policies and external agreements, with our Legal Advisors being an available point of consultation.
